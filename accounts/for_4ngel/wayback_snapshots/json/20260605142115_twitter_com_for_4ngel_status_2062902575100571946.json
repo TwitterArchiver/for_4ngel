@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062902575100571946",
+    "created_at": "2026-06-05T14:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062902575100571946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiaoyanboluooo…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2062891333086482544",
+          "start": 15,
+          "url": "https://t.co/XVCFwgHaOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062902575100571946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062891333086482544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好似，这种人早点下地狱去吧😇 https://t.co/XVCFwgHaOW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062902575100571946",
+        "created_at": "2026-06-05T14:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062902575100571946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaoyanboluooo…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2062891333086482544",
+              "start": 15,
+              "url": "https://t.co/XVCFwgHaOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062902575100571946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062891333086482544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好似，这种人早点下地狱去吧😇 https://t.co/XVCFwgHaOW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "2062891333086482544",
+        "created_at": "2026-06-05T13:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062891333086482544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062891333086482544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐好像被骂销号了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 491,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 551
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 3681,
+          "like_count": 26311,
+          "listed_count": 11,
+          "media_count": 1377,
+          "tweet_count": 5562
+        },
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

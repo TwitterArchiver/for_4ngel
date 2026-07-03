@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063491055199326208"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063491200125124926",
+    "created_at": "2026-06-07T05:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063491200125124926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tboeuzSFPs",
+          "end": 62,
+          "expanded_url": "https://x.com/for_4ngel/status/2063491200125124926/photo/1",
+          "media_key": "3_2063491055199326208",
+          "start": 39,
+          "url": "https://t.co/tboeuzSFPs"
+        },
+        {
+          "display_url": "x.com/OvO332233/stat…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/OvO332233/status/2063325735822197113",
+          "start": 63,
+          "url": "https://t.co/sVC80X7dUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063491200125124926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063325735822197113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦这是之前用在药圈的解构 但是这段内容是一样的，痛苦是无可量化的更别提比较了 https://t.co/tboeuzSFPs https://t.co/sVC80X7dUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2063491055199326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL-Lo5aEAAUGsG.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063491055199326208"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063491200125124926",
+        "created_at": "2026-06-07T05:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063491200125124926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tboeuzSFPs",
+              "end": 62,
+              "expanded_url": "https://x.com/for_4ngel/status/2063491200125124926/photo/1",
+              "media_key": "3_2063491055199326208",
+              "start": 39,
+              "url": "https://t.co/tboeuzSFPs"
+            },
+            {
+              "display_url": "x.com/OvO332233/stat…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/OvO332233/status/2063325735822197113",
+              "start": 63,
+              "url": "https://t.co/sVC80X7dUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063491200125124926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063325735822197113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦这是之前用在药圈的解构 但是这段内容是一样的，痛苦是无可量化的更别提比较了 https://t.co/tboeuzSFPs https://t.co/sVC80X7dUZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280075700851011589",
+        "conversation_id": "2063325735822197113",
+        "created_at": "2026-06-06T18:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063325735822197113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2063234244554760475",
+              "start": 145,
+              "url": "https://t.co/OB65w3RM9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063325735822197113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063234244554760475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯……学一下环状线吧\n在无敌爆爆龙的眼里\n\n         “苦痛，幸福”等感觉，不是一种比较的资本，也没有比较的必要。因为比苦永远有比你苦的，比幸福永远都有比你好的。\n两者的比较只能让自己变得更难受或者更幸灾乐祸，不如积极的面对当下的生活\n\nPS:对不起环状线老师，也感觉可能伤到浅葱 https://t.co/OB65w3RM9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 496,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 626
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "我也要当心理委员！\n大号@error332233\n貌似被shadowban了所以玩小号！\n06｜不OD｜mtf但是代称无所谓！\n碎碎念吗，可能有点负能量希望不要被我影响到\n讲真，现在这个更像是大号了（）\n我要努力！我要帮助每一个人！（但愿吧……）\n很希望好好活下来的人：小柒，燏，森森，17……还有好多\n你们要好好的！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "error332233"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "2062176813137494375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 199,
+          "like_count": 12702,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1622
+        },
+        "username": "OvO332233",
+        "verified": false
+      }
+    ]
+  }
+}

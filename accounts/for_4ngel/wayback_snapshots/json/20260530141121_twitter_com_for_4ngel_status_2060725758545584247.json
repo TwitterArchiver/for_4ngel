@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060725284673093632"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060725758545584247",
+    "created_at": "2026-05-30T14:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060725758545584247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R48HKJIZp4",
+          "end": 80,
+          "expanded_url": "https://x.com/for_4ngel/status/2060725758545584247/video/1",
+          "media_key": "13_2060725284673093632",
+          "start": 57,
+          "url": "https://t.co/R48HKJIZp4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060725758545584247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马上高考了大家这都是咋了。唯一一个班老实点其实是因为请假的人太多了。(注:这是重点高中，出镜的是我们班的陈冠希) https://t.co/R48HKJIZp4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38489,
+        "height": 1920,
+        "media_key": "13_2060725284673093632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060725284673093632/img/UUpYYY27isPlQHlg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060725284673093632/vid/avc1/320x568/7SNvDHzeQsVFB7jp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060725284673093632/vid/avc1/480x852/vbJczBSsqtBJTIH3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060725284673093632/vid/avc1/720x1280/zF9vayjv--qStck_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060725284673093632/pl/aCBnaKzARlpjbGS9.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060725284673093632"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060725758545584247",
+        "created_at": "2026-05-30T14:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060725758545584247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R48HKJIZp4",
+              "end": 80,
+              "expanded_url": "https://x.com/for_4ngel/status/2060725758545584247/video/1",
+              "media_key": "13_2060725284673093632",
+              "start": 57,
+              "url": "https://t.co/R48HKJIZp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060725758545584247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上高考了大家这都是咋了。唯一一个班老实点其实是因为请假的人太多了。(注:这是重点高中，出镜的是我们班的陈冠希) https://t.co/R48HKJIZp4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 393,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 263
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

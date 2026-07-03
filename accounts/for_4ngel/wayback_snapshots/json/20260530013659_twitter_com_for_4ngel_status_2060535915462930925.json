@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060353833298202707",
+    "created_at": "2026-05-30T01:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060535915462930925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881373864963473408",
+          "start": 0,
+          "username": "totonil1570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060535915462930925",
+    "in_reply_to_user_id": "1881373864963473408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060353833298202707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@totonil1570 抱抱你 是不是觉得自己总是想要完美主义看见一件事情的不好一面就觉得这个不好的结果必然会发生 或者 总陷在一些看起来微不足道的事情上 其实这不是你的问题 只是你比较敏感 共情能力会更强 相应的代偿就是内耗与反刍 你很善良可能不想搞砸任何关系伤害任何人 责任感也可以是为自己负责 祝你天天开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060353833298202707",
+        "created_at": "2026-05-30T01:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060535915462930925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881373864963473408",
+              "start": 0,
+              "username": "totonil1570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060535915462930925",
+        "in_reply_to_user_id": "1881373864963473408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060353833298202707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@totonil1570 抱抱你 是不是觉得自己总是想要完美主义看见一件事情的不好一面就觉得这个不好的结果必然会发生 或者 总陷在一些看起来微不足道的事情上 其实这不是你的问题 只是你比较敏感 共情能力会更强 相应的代偿就是内耗与反刍 你很善良可能不想搞砸任何关系伤害任何人 责任感也可以是为自己负责 祝你天天开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881373864963473408",
+        "conversation_id": "2060353833298202707",
+        "created_at": "2026-05-29T13:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060353833298202707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060353833298202707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想哭啊可是不能再钻牛角尖了感觉自己有表演型人格还特别幼稚特别任性可是好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 387,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 245
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T16:11:11.000Z",
+        "description": "",
+        "id": "1881373864963473408",
+        "name": "桃桃奶绿",
+        "pinned_tweet_id": "1881379938433171551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881374823382933504/dlVmbapB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 27,
+          "like_count": 508,
+          "listed_count": 6,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "totonil1570",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059465580491456988",
+    "created_at": "2026-05-27T05:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059502733527589103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933651983443111938",
+          "start": 0,
+          "username": "qichuanshangshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059502733527589103",
+    "in_reply_to_user_id": "1933651983443111938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059465580491456988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanshangshu 已关注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059465580491456988",
+        "created_at": "2026-05-27T05:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059502733527589103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933651983443111938",
+              "start": 0,
+              "username": "qichuanshangshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059502733527589103",
+        "in_reply_to_user_id": "1933651983443111938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059465580491456988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanshangshu 已关注"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933651983443111938",
+        "conversation_id": "2059465580491456988",
+        "created_at": "2026-05-27T02:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059465580491456988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059465580491456988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来跟我互fo喵qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我乐意解答~",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 316,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 92
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T22:25:42.000Z",
+        "description": "我是雨が降る｜主人@Sep_Hyxw｜友跨顺女｜同类互fo大欢迎｜舞萌/负能/餐券｜请来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Sep_Hyxw"
+              }
+            ]
+          }
+        },
+        "id": "1933651983443111938",
+        "location": "你心里♡",
+        "name": "雨が降る",
+        "pinned_tweet_id": "2021621168936264092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021118445761462273/VKiW9Yoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 122,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 346
+        },
+        "username": "qichuanshangshu",
+        "verified": false
+      }
+    ]
+  }
+}

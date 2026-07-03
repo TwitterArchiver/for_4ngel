@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062728497785975189",
+    "created_at": "2026-06-05T02:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062728497785975189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809604484173295620",
+          "start": 3,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062728497785975189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061141906575548783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @for_4ngel: 这倒是真的，想安慰和自杀干预里很多都存在这样的问题，你觉得你给的是安慰，但是无法共情他的痛苦的安慰在他看来是否定和控制，以及想让他们失去为数不多掌控欲的改造，致命的是这种沟通形式出发点都是好的，但是带来的伤害是积累的且致命的，无论是哪一类关系的沟通…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062728497785975189",
+        "created_at": "2026-06-05T02:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062728497785975189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809604484173295620",
+              "start": 3,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062728497785975189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061141906575548783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @for_4ngel: 这倒是真的，想安慰和自杀干预里很多都存在这样的问题，你觉得你给的是安慰，但是无法共情他的痛苦的安慰在他看来是否定和控制，以及想让他们失去为数不多掌控欲的改造，致命的是这种沟通形式出发点都是好的，但是带来的伤害是积累的且致命的，无论是哪一类关系的沟通…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061141906575548783",
+        "created_at": "2026-05-31T17:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061141906575548783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cryinwater_/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/cryinwater_/status/2061030188956483979",
+              "start": 131,
+              "url": "https://t.co/MpPPNeqIi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061141906575548783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061030188956483979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒是真的，想安慰和自杀干预里很多都存在这样的问题，你觉得你给的是安慰，但是无法共情他的痛苦的安慰在他看来是否定和控制，以及想让他们失去为数不多掌控欲的改造，致命的是这种沟通形式出发点都是好的，但是带来的伤害是积累的且致命的，无论是哪一类关系的沟通里都是一样的 https://t.co/MpPPNeqIi0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 484,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 537
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

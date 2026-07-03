@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061678926427246734",
+    "created_at": "2026-06-02T05:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061678926427246734"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061678926427246734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前天晚上因为抽烟+咽喉炎导致喉咙剧烈变形遂戒烟一天，今天喉咙恢复尚可遂抽烟一支，13:11 剧烈咳嗽😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061678926427246734",
+        "created_at": "2026-06-02T05:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061678926427246734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061678926427246734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天晚上因为抽烟+咽喉炎导致喉咙剧烈变形遂戒烟一天，今天喉咙恢复尚可遂抽烟一支，13:11 剧烈咳嗽😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 431,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 447
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

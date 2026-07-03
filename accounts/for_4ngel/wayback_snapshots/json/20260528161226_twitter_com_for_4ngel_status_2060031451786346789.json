@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059801282446340321",
+    "created_at": "2026-05-28T16:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060031451786346789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957679638790160386",
+          "start": 0,
+          "username": "pof174024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060031451786346789",
+    "in_reply_to_user_id": "1957679638790160386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060030642096898487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pof174024 你是混合型(恐惧型)，高焦虑高回避，依恋人格看成xy坐标，x是焦虑，y是回避，离原点越远越危险，恐惧型就是这个坐标系上的一个孤岛，上面有人在求救但是害怕来救你的是海盗，然后恐惧型的防御有焦虑表现和疏远回避表现这就导致有些人觉得自己是纯焦虑或者纯疏远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059801282446340321",
+        "created_at": "2026-05-28T16:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060031451786346789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957679638790160386",
+              "start": 0,
+              "username": "pof174024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060031451786346789",
+        "in_reply_to_user_id": "1957679638790160386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060030642096898487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pof174024 你是混合型(恐惧型)，高焦虑高回避，依恋人格看成xy坐标，x是焦虑，y是回避，离原点越远越危险，恐惧型就是这个坐标系上的一个孤岛，上面有人在求救但是害怕来救你的是海盗，然后恐惧型的防御有焦虑表现和疏远回避表现这就导致有些人觉得自己是纯焦虑或者纯疏远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957679638790160386",
+        "conversation_id": "2059801282446340321",
+        "created_at": "2026-05-28T16:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060030642096898487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060030642096898487",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060030415046647826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 谢谢你呀，我还觉得我更像焦虑型依恋呢。不过大概都有吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 365,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 179
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T05:43:06.000Z",
+        "description": "",
+        "id": "1957679638790160386",
+        "location": "你心里",
+        "name": "答应不再让你流泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059314633849344001/dCLWyiGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 84,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "pof174024",
+        "verified": false
+      }
+    ]
+  }
+}

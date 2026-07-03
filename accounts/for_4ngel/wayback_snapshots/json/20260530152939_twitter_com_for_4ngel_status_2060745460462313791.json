@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2060643508785177034",
+    "created_at": "2026-05-30T15:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060745460462313791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1674465607977406466",
+          "start": 0,
+          "username": "momomo1882765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060745460462313791",
+    "in_reply_to_user_id": "1674465607977406466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060643508785177034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momomo1882765 其实自己也不了解 我从大概小学三年级看了一部电影感觉黑客什么的很帅吧就开始自己去学计算机网络安全什么的 父母没怎么支持都靠买书上网查资料 我也不知道为什么那些枯燥的东西在我看来那么有吸引力 后面初中开始去做网络安全红队武器化开发吧 现在想想为什么那个时候能改一天的bug乐此不疲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2060643508785177034",
+        "created_at": "2026-05-30T15:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060745460462313791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1674465607977406466",
+              "start": 0,
+              "username": "momomo1882765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060745460462313791",
+        "in_reply_to_user_id": "1674465607977406466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060643508785177034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momomo1882765 其实自己也不了解 我从大概小学三年级看了一部电影感觉黑客什么的很帅吧就开始自己去学计算机网络安全什么的 父母没怎么支持都靠买书上网查资料 我也不知道为什么那些枯燥的东西在我看来那么有吸引力 后面初中开始去做网络安全红队武器化开发吧 现在想想为什么那个时候能改一天的bug乐此不疲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674465607977406466",
+        "conversation_id": "2060643508785177034",
+        "created_at": "2026-05-30T08:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060643508785177034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060643508785177034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然有想法，学计算机或数学这种理工科的，并且热爱的，会不会是觉得这些东西比人好打交道？因为这些东西你按照固定的定律就能改变，从而让它们符合心意；而人不是这样，人很难被别人改变，即使变了也很难一直完美适合自己下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 393,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 275
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T17:11:33.000Z",
+        "description": "文明观察",
+        "id": "1674465607977406466",
+        "location": "月球",
+        "name": "momomo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757794534401220608/mq7nwEvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 274,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 377
+        },
+        "username": "momomo1882765",
+        "verified": false
+      }
+    ]
+  }
+}

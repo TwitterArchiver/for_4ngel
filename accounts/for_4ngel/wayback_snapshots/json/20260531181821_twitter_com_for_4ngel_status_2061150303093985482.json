@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061132162678882371",
+    "created_at": "2026-05-31T18:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061150303093985482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809951057851953152",
+          "start": 0,
+          "username": "jhu207586579619"
+        },
+        {
+          "end": 26,
+          "id": "1856361988898885632",
+          "start": 17,
+          "username": "ruriko_m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061150303093985482",
+    "in_reply_to_user_id": "1809951057851953152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061149456985428274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhu207586579619 @ruriko_m 嗯，你们这是属于很典型的创伤性联接，这种关系的深度远超正常情侣关系的其实，但是其中带来的伤害也很多，但是只要有一方愿意改变那就完全可以避免悲剧的发生，会发展成一段超出正常关系的亲密关系呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061132162678882371",
+        "created_at": "2026-05-31T18:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061150303093985482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809951057851953152",
+              "start": 0,
+              "username": "jhu207586579619"
+            },
+            {
+              "end": 26,
+              "id": "1856361988898885632",
+              "start": 17,
+              "username": "ruriko_m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061150303093985482",
+        "in_reply_to_user_id": "1809951057851953152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061149456985428274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhu207586579619 @ruriko_m 嗯，你们这是属于很典型的创伤性联接，这种关系的深度远超正常情侣关系的其实，但是其中带来的伤害也很多，但是只要有一方愿意改变那就完全可以避免悲剧的发生，会发展成一段超出正常关系的亲密关系呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809951057851953152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2061132162678882371",
+        "created_at": "2026-05-31T18:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061149456985428274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            },
+            {
+              "end": 20,
+              "id": "1856361988898885632",
+              "start": 11,
+              "username": "ruriko_m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061149456985428274",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061147226983071966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel @ruriko_m 谢谢你！！！！不过其实本来就很不健康！只是两个人都想变得好一点的治疗联盟这样的关系！有时候跟他说话压力很大，如果不能够好好沟通就会起反效果，我会尽量除去羞耻心来说出真实的想法的，谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 408,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 352
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T14:02:34.000Z",
+        "description": "研究生在读，成分是烤/术/粥\n...男友重度依赖，恋爱脑，纯压抑垢\n176天空树，每天都在苦恼买衣服的事情",
+        "id": "1809951057851953152",
+        "name": "橘絵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821784544019935233/XvV10Xdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 326,
+          "like_count": 3813,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 757
+        },
+        "username": "jhu207586579619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T15:42:57.000Z",
+        "description": "",
+        "id": "1856361988898885632",
+        "name": "小琉璃",
+        "pinned_tweet_id": "1937262229046661304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012964470931210240/w7j2GEVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 1280,
+          "like_count": 11194,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 962
+        },
+        "username": "ruriko_m",
+        "verified": false
+      }
+    ]
+  }
+}

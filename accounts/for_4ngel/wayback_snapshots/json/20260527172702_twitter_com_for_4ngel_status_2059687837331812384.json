@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059678431860953458",
+    "created_at": "2026-05-27T17:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059687837331812384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680262200773201920",
+          "start": 0,
+          "username": "suyang_233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059687837331812384",
+    "in_reply_to_user_id": "1680262200773201920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059678431860953458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suyang_233 前额叶神经髓鞘化在28岁，这是人格正式定型的时候，要再想改变很难了那些成熟的表现只是大脑没有那么多能量去折腾了而不是好了但是19-21神经元可塑性很强，人格还是能改变的，积极配合心理疏导的话。。但是要是精神病性高的疾病的话那就不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059678431860953458",
+        "created_at": "2026-05-27T17:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059687837331812384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680262200773201920",
+              "start": 0,
+              "username": "suyang_233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059687837331812384",
+        "in_reply_to_user_id": "1680262200773201920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059678431860953458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyang_233 前额叶神经髓鞘化在28岁，这是人格正式定型的时候，要再想改变很难了那些成熟的表现只是大脑没有那么多能量去折腾了而不是好了但是19-21神经元可塑性很强，人格还是能改变的，积极配合心理疏导的话。。但是要是精神病性高的疾病的话那就不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680262200773201920",
+        "conversation_id": "2059678431860953458",
+        "created_at": "2026-05-27T16:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059678431860953458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059678431860953458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在变成成年人之后，依旧有一段缓冲时期，我们可以自称\"十几岁的小孩\"来得到宽容。\n\n这段两年的缓冲时期真的足够成为一个\"成年人\"吗？\n\n咱的缓冲期快结束了，很显然，咱依旧是个心理残缺的人，没能做到。。。但也没时间再。。。了。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我乐意解答~",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 341,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 110
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T17:05:26.000Z",
+        "description": "这里是小苏喵～\n一只友跨猫猫，长沙的一只xyn\n主人酱 @EDreamMengNiang，还有可爱姐姐@ChenXu233\n（极度反感建政，一切党派勿扰）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "EDreamMengNiang"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ChenXu233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twis.uk",
+                "end": 23,
+                "expanded_url": "http://www.twis.uk",
+                "start": 0,
+                "url": "https://t.co/QVlnrETfW8"
+              }
+            ]
+          }
+        },
+        "id": "1680262200773201920",
+        "location": "Ice Plant",
+        "name": "苏阳～♡",
+        "pinned_tweet_id": "2054612272832713124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687408961199468544/w6WxZlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 206,
+          "like_count": 27258,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3585
+        },
+        "url": "https://t.co/QVlnrETfW8",
+        "username": "suyang_233",
+        "verified": false
+      }
+    ]
+  }
+}

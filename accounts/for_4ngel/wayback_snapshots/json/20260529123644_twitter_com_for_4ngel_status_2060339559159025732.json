@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060332068765409695",
+    "created_at": "2026-05-29T12:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060339559159025732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056010581342392320",
+          "start": 0,
+          "username": "Mercyvnv"
+        },
+        {
+          "end": 26,
+          "id": "2035910882140782592",
+          "start": 10,
+          "username": "psychoactiveday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060339559159025732",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060339014939611485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvnv @psychoactiveday 不过你感觉不错就行，但是这个联用通用性不强应该个体差异预计会很大因为美金刚的体验个体差异就已经很大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060332068765409695",
+        "created_at": "2026-05-29T12:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060339559159025732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056010581342392320",
+              "start": 0,
+              "username": "Mercyvnv"
+            },
+            {
+              "end": 26,
+              "id": "2035910882140782592",
+              "start": 10,
+              "username": "psychoactiveday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060339559159025732",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060339014939611485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvnv @psychoactiveday 不过你感觉不错就行，但是这个联用通用性不强应该个体差异预计会很大因为美金刚的体验个体差异就已经很大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060332068765409695",
+        "created_at": "2026-05-29T12:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060339014939611485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056010581342392320",
+              "start": 0,
+              "username": "Mercyvnv"
+            },
+            {
+              "end": 26,
+              "id": "2035910882140782592",
+              "start": 10,
+              "username": "psychoactiveday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060339014939611485",
+        "in_reply_to_user_id": "2056010581342392320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060333093777752281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvnv @psychoactiveday 前面说过了欣快是体内的dxm&gt;dxo体内血药含量动态变化产生的欣快，dxo是环己烷骨架本身有一定的欣快效力，还有sigma1+snri不是单纯ssri，sigma1目前感觉是在幻觉上作用效果很明显对于dxm来说是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 380,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 209
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T13:55:45.000Z",
+        "description": "已老实，互fo私信\n\nenby，💊🔪🩸",
+        "id": "2056010581342392320",
+        "name": "Mercy",
+        "pinned_tweet_id": "2056992126341378202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 190,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 277
+        },
+        "username": "Mercyvnv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T02:45:55.000Z",
+        "description": "客观唯心主义✝️；\n地球🌏online正式链接；\n相信永生；有罪的人；一个神经病：\n自主神经持续异常；心理药理咨询（我使用grok）；",
+        "id": "2035910882140782592",
+        "name": "精神活性的空气力学（💊）",
+        "pinned_tweet_id": "2060305980282339647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059885023684132868/4Xx8wXQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 29,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "username": "psychoactiveday",
+        "verified": false
+      }
+    ]
+  }
+}

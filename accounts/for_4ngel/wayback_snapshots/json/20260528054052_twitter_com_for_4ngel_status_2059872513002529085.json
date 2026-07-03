@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059768790150201731",
+    "created_at": "2026-05-28T05:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059872513002529085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829068994734874624",
+          "start": 0,
+          "username": "CorlinS11111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059872513002529085",
+    "in_reply_to_user_id": "1829068994734874624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059768790150201731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CorlinS11111 单纯是因为25往上开始情绪能量降低了人格趋向固化但稳定了，问题没解决只是没力气外露了，因为25岁往上大多数人都在经历着这个过程，自然会有这种感受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059768790150201731",
+        "created_at": "2026-05-28T05:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059872513002529085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829068994734874624",
+              "start": 0,
+              "username": "CorlinS11111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059872513002529085",
+        "in_reply_to_user_id": "1829068994734874624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059768790150201731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CorlinS11111 单纯是因为25往上开始情绪能量降低了人格趋向固化但稳定了，问题没解决只是没力气外露了，因为25岁往上大多数人都在经历着这个过程，自然会有这种感受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829068994734874624",
+        "conversation_id": "2059768790150201731",
+        "created_at": "2026-05-27T22:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059768790150201731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059768790150201731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1398,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找对象其实本质上就是一个不断通过试错来完成你的择偶算法的一件事情\nlike你碰到一个只想索取的人or一个情绪不稳定的人 经历过就不会再重复一样的人\n每一次筛选的意义 就是你通过负面反馈来优化你的下一任选择\n这跟做实验完全一样，我一直觉得最正确的人会出现在25岁，so当你觉得不对的时候划过就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 350,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 145
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T08:10:29.000Z",
+        "description": "灵魂随风，永远肆意洒脱\n CS和瓦罗兰特顶分｜码农｜书籍｜二次元｜小猫全肯定｜pop｜爱喝果茶｜奥地利｜第九艺术｜电影｜欧洲留子  ｜懒(｡ ́︿ ̀｡)\n梦校:维也纳大学/巴黎高师/爱丁堡大学",
+        "id": "1829068994734874624",
+        "location": "Guangzhou",
+        "name": "D1vice",
+        "pinned_tweet_id": "2033207462396846513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053805046106566656/d-TdRQP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 176,
+          "like_count": 18755,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1924
+        },
+        "username": "CorlinS11111",
+        "verified": false
+      }
+    ]
+  }
+}

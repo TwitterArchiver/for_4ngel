@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060222012937900426",
+    "created_at": "2026-05-29T04:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060222012937900426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850322195782025216",
+          "start": 3,
+          "username": "happynare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060222012937900426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059973181419761762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @happynare: 見捨てられ不安が強すぎて、返信が遅いとか態度が少し冷たかっただけで、関係の終わりを想像して勝手に1人でナイーブになってる。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060222012937900426",
+        "created_at": "2026-05-29T04:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060222012937900426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850322195782025216",
+              "start": 3,
+              "username": "happynare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060222012937900426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059973181419761762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @happynare: 見捨てられ不安が強すぎて、返信が遅いとか態度が少し冷たかっただけで、関係の終わりを想像して勝手に1人でナイーブになってる。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850322195782025216",
+        "conversation_id": "2059973181419761762",
+        "created_at": "2026-05-28T12:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059973181419761762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059973181419761762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 52934,
+          "like_count": 2013,
+          "quote_count": 65,
+          "reply_count": 11,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "見捨てられ不安が強すぎて、返信が遅いとか態度が少し冷たかっただけで、関係の終わりを想像して勝手に1人でナイーブになってる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 373,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 193
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T23:42:54.000Z",
+        "description": "愛とは何か、",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/shiawasehoshi",
+                "end": 23,
+                "expanded_url": "https://note.com/shiawasehoshi",
+                "start": 0,
+                "url": "https://t.co/kM67LKyRbh"
+              }
+            ]
+          }
+        },
+        "id": "1850322195782025216",
+        "name": "幸せ",
+        "pinned_tweet_id": "2046433447003247050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865726685385289728/Nd2nY7T8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8155,
+          "following_count": 173,
+          "like_count": 1981,
+          "listed_count": 23,
+          "media_count": 2,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/kM67LKyRbh",
+        "username": "happynare",
+        "verified": false
+      }
+    ]
+  }
+}

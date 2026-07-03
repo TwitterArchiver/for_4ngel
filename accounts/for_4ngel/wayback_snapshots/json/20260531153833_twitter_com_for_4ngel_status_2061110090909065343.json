@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060348705526653108",
+    "created_at": "2026-05-31T15:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061110090909065343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1560456062343737344",
+          "start": 0,
+          "username": "L__092_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061110090909065343",
+    "in_reply_to_user_id": "1560456062343737344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060348705526653108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L__092_ 情感漠视这玩意不要乱给自己贴标签，我主页今天刚好提了这个你可以看看吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060348705526653108",
+        "created_at": "2026-05-31T15:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061110090909065343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1560456062343737344",
+              "start": 0,
+              "username": "L__092_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061110090909065343",
+        "in_reply_to_user_id": "1560456062343737344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060348705526653108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L__092_ 情感漠视这玩意不要乱给自己贴标签，我主页今天刚好提了这个你可以看看吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560456062343737344",
+        "conversation_id": "2060348705526653108",
+        "created_at": "2026-05-29T13:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060348705526653108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060348705526653108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很不想承认但我感觉我有情感漠视。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 407,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 327
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T02:38:29.000Z",
+        "description": "温青  switch\n\n    v🚪58/138 眼熟回关",
+        "id": "1560456062343737344",
+        "location": "万语难尽涩于口",
+        "name": "忆恋",
+        "pinned_tweet_id": "2025573562824945875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969374041829228573/0lLjsfiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 166,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 530
+        },
+        "username": "L__092_",
+        "verified": false
+      }
+    ]
+  }
+}

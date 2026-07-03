@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2060664937731797145",
+    "created_at": "2026-05-30T10:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060664937731797145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Yuivox/status…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/_Yuivox/status/2060480895463940381",
+          "start": 138,
+          "url": "https://t.co/BtXHK8g5mX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060664937731797145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060480895463940381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也是不健康依恋人格分手后造成反弹式关系的原因，本质上反弹式关系造成的前提是因为上一段关系让对方满足了，反弹式关系本质上是对亲密关系的退行降级，这样可以利用一些低级趣味的多巴胺来麻痹自己的痛苦。但是这种多巴胺耐受很容易拉高，像麻醉剂的药效终究会失效，随之而来的就是更大的痛苦 https://t.co/BtXHK8g5mX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060664937731797145",
+        "created_at": "2026-05-30T10:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060664937731797145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Yuivox/status…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/_Yuivox/status/2060480895463940381",
+              "start": 138,
+              "url": "https://t.co/BtXHK8g5mX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060664937731797145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060480895463940381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也是不健康依恋人格分手后造成反弹式关系的原因，本质上反弹式关系造成的前提是因为上一段关系让对方满足了，反弹式关系本质上是对亲密关系的退行降级，这样可以利用一些低级趣味的多巴胺来麻痹自己的痛苦。但是这种多巴胺耐受很容易拉高，像麻醉剂的药效终究会失效，随之而来的就是更大的痛苦 https://t.co/BtXHK8g5mX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698497281073225728",
+        "conversation_id": "2060480895463940381",
+        "created_at": "2026-05-29T21:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060480895463940381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060480895463940381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 91011,
+          "like_count": 2980,
+          "quote_count": 159,
+          "reply_count": 286,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "自分を愛せない人が他人を愛すると\n依存しやすいらしいよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 392,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 261
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T00:44:52.000Z",
+        "description": "やがみゆい \n∔唯一無二の声を武器に活動しています∔\n\n†❤︎ @yagami__yui 裏垢@yui_menship",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "yagami__yui"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "yui_menship"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@YuiVox25",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@YuiVox25",
+                "start": 0,
+                "url": "https://t.co/iRkOii7xRO"
+              }
+            ]
+          }
+        },
+        "id": "1698497281073225728",
+        "location": "Vtuber準備中…",
+        "name": "夜神ゆい",
+        "pinned_tweet_id": "2001233740526444847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039363703829852160/1HZogWkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14986,
+          "following_count": 2157,
+          "like_count": 75195,
+          "listed_count": 59,
+          "media_count": 82,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/iRkOii7xRO",
+        "username": "_Yuivox",
+        "verified": true
+      }
+    ]
+  }
+}

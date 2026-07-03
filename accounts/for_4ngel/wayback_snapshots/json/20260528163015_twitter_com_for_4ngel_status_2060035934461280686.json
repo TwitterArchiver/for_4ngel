@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059926098180456738",
+    "created_at": "2026-05-28T16:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060035934461280686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042581110492925955",
+          "start": 0,
+          "username": "qhr4ay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060035934461280686",
+    "in_reply_to_user_id": "2042581110492925955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059926098180456738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhr4ay 不用否定对方的想法，尊重个人意愿，同时表达自己的感情，重在非暴力沟通，表达你看到的客观事实，然后再表达你的感受，先表达客观事实当然要包括对方的痛苦而不是他给你带来的不安，最后交给人类的自由意志，这是一个想死的人唯一想掌握和选择的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059926098180456738",
+        "created_at": "2026-05-28T16:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060035934461280686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042581110492925955",
+              "start": 0,
+              "username": "qhr4ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060035934461280686",
+        "in_reply_to_user_id": "2042581110492925955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059926098180456738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhr4ay 不用否定对方的想法，尊重个人意愿，同时表达自己的感情，重在非暴力沟通，表达你看到的客观事实，然后再表达你的感受，先表达客观事实当然要包括对方的痛苦而不是他给你带来的不安，最后交给人类的自由意志，这是一个想死的人唯一想掌握和选择的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042581110492925955",
+        "conversation_id": "2059926098180456738",
+        "created_at": "2026-05-28T09:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059926098180456738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059926098180456738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死にたい人になんて声かけたらいいの？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 365,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 183
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T12:32:28.000Z",
+        "description": "共依存 @nkitikasu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "nkitikasu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/qhr4ay/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/qhr4ay/",
+                "start": 0,
+                "url": "https://t.co/BnqIad957k"
+              }
+            ]
+          }
+        },
+        "id": "2042581110492925955",
+        "location": "本垢凍結",
+        "name": "カフェイン中毒",
+        "pinned_tweet_id": "2058889434247102903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054883095346855937/F4cEtW-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 82,
+          "like_count": 3600,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/BnqIad957k",
+        "username": "qhr4ay",
+        "verified": false
+      }
+    ]
+  }
+}

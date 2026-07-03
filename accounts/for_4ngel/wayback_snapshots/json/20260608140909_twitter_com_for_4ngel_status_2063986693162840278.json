@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063986693162840278",
+    "created_at": "2026-06-08T14:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063986693162840278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/20satsumaimo/s…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/20satsumaimo/status/2063978640027881979",
+          "start": 126,
+          "url": "https://t.co/6mk3aXbdH8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063986693162840278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063978640027881979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也不是说炒作吧，挺能理解的，自杀冲动者的自杀基本都是死亡率不高的，短期高度精神痛苦很容易造成这种事，但是都是没规划性的毕竟这个时候的目的不是真的想死更多的是为了获得在乎和情绪价值，希望大家还是别看到自杀率低的自杀帖就往炒作方面想吧(tyw除外)。。。 https://t.co/6mk3aXbdH8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063986693162840278",
+        "created_at": "2026-06-08T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063986693162840278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/20satsumaimo/s…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/20satsumaimo/status/2063978640027881979",
+              "start": 126,
+              "url": "https://t.co/6mk3aXbdH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063986693162840278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063978640027881979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也不是说炒作吧，挺能理解的，自杀冲动者的自杀基本都是死亡率不高的，短期高度精神痛苦很容易造成这种事，但是都是没规划性的毕竟这个时候的目的不是真的想死更多的是为了获得在乎和情绪价值，希望大家还是别看到自杀率低的自杀帖就往炒作方面想吧(tyw除外)。。。 https://t.co/6mk3aXbdH8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029291241704439808",
+        "conversation_id": "2063754104984441117",
+        "created_at": "2026-06-08T13:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063978640027881979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063978640027881979",
+        "in_reply_to_user_id": "2029291241704439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063754104984441117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没关系，我的朋友据说救回来了，我也不吞盐了，你们觉得我炒作就炒作吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 497,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 653
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T20:25:12.000Z",
+        "description": "mtf/有证含糖/02年/基本待人友善/OD/不割手/疑似严重躁狂（叫我红薯就好啦～",
+        "id": "2029291241704439808",
+        "name": "是红薯呀～🍥",
+        "pinned_tweet_id": "2038964958881575022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 1,
+          "like_count": 108,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 137
+        },
+        "username": "20satsumaimo",
+        "verified": true
+      }
+    ]
+  }
+}

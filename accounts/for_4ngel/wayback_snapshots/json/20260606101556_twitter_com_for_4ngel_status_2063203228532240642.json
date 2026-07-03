@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063203228532240642",
+    "created_at": "2026-06-06T10:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063203228532240642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/noaayoyaoaya/s…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/noaayoyaoaya/status/2062891625873863072",
+          "start": 103,
+          "url": "https://t.co/3hsalMbjyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063203228532240642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062891625873863072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家庭教育留下的人格底色导致的，举个很简单的例子，虽然都说\"00\"后可能是最好的父母，是因为他们对自己受的苦有清楚的自我认识，但是人格底色写在底层代码里，很容易会出现好心办坏事投射出自己父母教育缺陷的影子。 https://t.co/3hsalMbjyu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063203228532240642",
+        "created_at": "2026-06-06T10:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063203228532240642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noaayoyaoaya/s…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/noaayoyaoaya/status/2062891625873863072",
+              "start": 103,
+              "url": "https://t.co/3hsalMbjyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063203228532240642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062891625873863072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家庭教育留下的人格底色导致的，举个很简单的例子，虽然都说\"00\"后可能是最好的父母，是因为他们对自己受的苦有清楚的自我认识，但是人格底色写在底层代码里，很容易会出现好心办坏事投射出自己父母教育缺陷的影子。 https://t.co/3hsalMbjyu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2062891625873863072",
+        "created_at": "2026-06-05T13:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062891625873863072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2062768321829666837",
+              "start": 64,
+              "url": "https://t.co/PIMRaRPzSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062891625873863072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5760,
+          "like_count": 108,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062768321829666837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典型的老中妈就是你这样的，一边把别人当小孩无底线地包容，一边又无视别人的人格随意投射自己的欲望。每次出了事要么装死要么装受害者 https://t.co/PIMRaRPzSt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 492,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 582
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21382,
+          "following_count": 849,
+          "like_count": 10749,
+          "listed_count": 31,
+          "media_count": 125,
+          "tweet_count": 5305
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

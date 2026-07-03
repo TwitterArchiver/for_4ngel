@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060343301002453370",
+    "created_at": "2026-05-29T13:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060350725713207726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028027034556088320",
+          "start": 0,
+          "username": "nocule00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060350725713207726",
+    "in_reply_to_user_id": "2028027034556088320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060343301002453370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nocule00 怕被伤害，疏远型回避坚定一定要独立别人是靠不住的任何感情都是不真实的，不去爱就不用体验分离和磨合的伤害，因为他们小时候在\"获得爱\"的过程中失望太多次了，恐惧型回避是渴望爱的但是不敢大胆去爱的，因为他们的童年是深沉的爱与包容和无尽的痛苦交织的，回避型都是爱无能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060343301002453370",
+        "created_at": "2026-05-29T13:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060350725713207726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028027034556088320",
+              "start": 0,
+              "username": "nocule00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060350725713207726",
+        "in_reply_to_user_id": "2028027034556088320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060343301002453370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nocule00 怕被伤害，疏远型回避坚定一定要独立别人是靠不住的任何感情都是不真实的，不去爱就不用体验分离和磨合的伤害，因为他们小时候在\"获得爱\"的过程中失望太多次了，恐惧型回避是渴望爱的但是不敢大胆去爱的，因为他们的童年是深沉的爱与包容和无尽的痛苦交织的，回避型都是爱无能的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028027034556088320",
+        "conversation_id": "2060343301002453370",
+        "created_at": "2026-05-29T12:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060343301002453370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060343301002453370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么会有回避型人格呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 381,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 210
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T08:38:32.000Z",
+        "description": "所有问我闹够了没的人 我告诉你们 我还没开始闹",
+        "id": "2028027034556088320",
+        "name": "Done.",
+        "pinned_tweet_id": "2031798757432705262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028027529358163969/o0Z7KwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3608,
+          "following_count": 25,
+          "like_count": 1498,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 3274
+        },
+        "username": "nocule00",
+        "verified": false
+      }
+    ]
+  }
+}

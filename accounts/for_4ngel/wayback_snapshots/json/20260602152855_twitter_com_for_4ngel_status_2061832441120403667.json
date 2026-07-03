@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061832441120403667",
+    "created_at": "2026-06-02T15:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061832441120403667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/for_4ngel/stat…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/for_4ngel/status/2061038135895830563",
+          "start": 81,
+          "url": "https://t.co/wC00uC4zi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061832441120403667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061038135895830563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有50rmb 希望有人转帖让有需要的人看到 第一次还有浏览量挺多人的 但是有需要的就几个 第二次浏览量下降了10倍但是至少还是有点人(都是第一次评论区里的)😁 https://t.co/wC00uC4zi4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061832441120403667",
+        "created_at": "2026-06-02T15:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061832441120403667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2061038135895830563",
+              "start": 81,
+              "url": "https://t.co/wC00uC4zi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061832441120403667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061038135895830563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有50rmb 希望有人转帖让有需要的人看到 第一次还有浏览量挺多人的 但是有需要的就几个 第二次浏览量下降了10倍但是至少还是有点人(都是第一次评论区里的)😁 https://t.co/wC00uC4zi4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061038135895830563",
+        "created_at": "2026-05-31T10:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061038135895830563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2061037132626727150",
+              "start": 138,
+              "url": "https://t.co/BiUdeIu0HU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061038135895830563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061037132626727150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "符合要求的包括但是不限于:跨要买药物的但是家人不支持的且经济不独立，有比较严重的心理生理疾病的去看病没钱买药看病父母不把病当一回事的，或许有经济独立能力但是经济来源不稳定急需要钱交房租吃饭在社会生存的(这个还要视具体情况而定)，没钱但是要逃离原生家庭(视具体情况而定)，等等 https://t.co/BiUdeIu0HU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 455,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 479
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

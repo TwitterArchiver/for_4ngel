@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061654404642807904",
+    "created_at": "2026-06-03T01:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061980974096036137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        },
+        {
+          "end": 23,
+          "id": "1679100561227137029",
+          "start": 10,
+          "username": "hngjiguling1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061980974096036137",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061980580502487540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg @hngjiguling1 欣快，去焦虑，社交增强，就那些东西吧，加吧体感和普瑞类似的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061654404642807904",
+        "created_at": "2026-06-03T01:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061980974096036137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            },
+            {
+              "end": 23,
+              "id": "1679100561227137029",
+              "start": 10,
+              "username": "hngjiguling1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061980974096036137",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061980580502487540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg @hngjiguling1 欣快，去焦虑，社交增强，就那些东西吧，加吧体感和普瑞类似的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2061654404642807904",
+        "created_at": "2026-06-03T01:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061980580502487540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            },
+            {
+              "end": 24,
+              "id": "1679100561227137029",
+              "start": 11,
+              "username": "hngjiguling1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061980580502487540",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061654404642807904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel @hngjiguling1 这个体感上会有什么效果呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 456,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 491
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 64,
+          "like_count": 10988,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 4364
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T12:09:26.000Z",
+        "description": "低浮上 07 intp 泛性恋 非二元 双相/ADHD/中焦治疗中 长发男全肯定 记录灵感和欲望 提问箱https://t.co/y7PD81yiVY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inoricafe",
+                "end": 75,
+                "expanded_url": "https://ngl.link/inoricafe",
+                "start": 52,
+                "url": "https://t.co/y7PD81yiVY"
+              }
+            ]
+          }
+        },
+        "id": "1679100561227137029",
+        "location": "Seattle, WA",
+        "name": "Monet",
+        "pinned_tweet_id": "1917734250499170593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036305498635640835/lBBtgk3d_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 406,
+          "like_count": 5006,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 197
+        },
+        "username": "hngjiguling1",
+        "verified": false
+      }
+    ]
+  }
+}

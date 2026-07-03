@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062115462121680896",
+        "3_2062115462083960832",
+        "3_2062115463438708736"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062116233085112746",
+    "created_at": "2026-06-03T10:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062116233085112746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1R5cIG54yy",
+          "end": 130,
+          "expanded_url": "https://x.com/for_4ngel/status/2062116233085112746/photo/1",
+          "media_key": "3_2062115462121680896",
+          "start": 107,
+          "url": "https://t.co/1R5cIG54yy"
+        },
+        {
+          "display_url": "pic.x.com/1R5cIG54yy",
+          "end": 130,
+          "expanded_url": "https://x.com/for_4ngel/status/2062116233085112746/photo/1",
+          "media_key": "3_2062115462083960832",
+          "start": 107,
+          "url": "https://t.co/1R5cIG54yy"
+        },
+        {
+          "display_url": "pic.x.com/1R5cIG54yy",
+          "end": 130,
+          "expanded_url": "https://x.com/for_4ngel/status/2062116233085112746/photo/1",
+          "media_key": "3_2062115463438708736",
+          "start": 107,
+          "url": "https://t.co/1R5cIG54yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062116233085112746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说真的哥们不是我不想帮 我不歧视任何人群 但是去你这主页看成分 我严重怀疑你是借一万凑两万去x上约炮被骗了 唯一发的两个帖子也一股傻逼味 打开你关注列表直接一堆雷霆大草约炮博主 我不敢帮主要是怕我微信账号得性病 https://t.co/1R5cIG54yy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2062115462121680896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4bFlWacAA0eks.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2062115462083960832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4bFlNa4AAfTHf.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2062115463438708736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4bFqQasAAzVgS.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062115462121680896",
+            "3_2062115462083960832",
+            "3_2062115463438708736"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062116233085112746",
+        "created_at": "2026-06-03T10:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062116233085112746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1R5cIG54yy",
+              "end": 130,
+              "expanded_url": "https://x.com/for_4ngel/status/2062116233085112746/photo/1",
+              "media_key": "3_2062115462121680896",
+              "start": 107,
+              "url": "https://t.co/1R5cIG54yy"
+            },
+            {
+              "display_url": "pic.x.com/1R5cIG54yy",
+              "end": 130,
+              "expanded_url": "https://x.com/for_4ngel/status/2062116233085112746/photo/1",
+              "media_key": "3_2062115462083960832",
+              "start": 107,
+              "url": "https://t.co/1R5cIG54yy"
+            },
+            {
+              "display_url": "pic.x.com/1R5cIG54yy",
+              "end": 130,
+              "expanded_url": "https://x.com/for_4ngel/status/2062116233085112746/photo/1",
+              "media_key": "3_2062115463438708736",
+              "start": 107,
+              "url": "https://t.co/1R5cIG54yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062116233085112746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说真的哥们不是我不想帮 我不歧视任何人群 但是去你这主页看成分 我严重怀疑你是借一万凑两万去x上约炮被骗了 唯一发的两个帖子也一股傻逼味 打开你关注列表直接一堆雷霆大草约炮博主 我不敢帮主要是怕我微信账号得性病 https://t.co/1R5cIG54yy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 466,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 516
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

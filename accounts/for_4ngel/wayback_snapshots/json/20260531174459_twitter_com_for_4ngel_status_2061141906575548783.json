@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061141906575548783",
+    "created_at": "2026-05-31T17:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061141906575548783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cryinwater_/st…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/cryinwater_/status/2061030188956483979",
+          "start": 131,
+          "url": "https://t.co/MpPPNeqIi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061141906575548783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061030188956483979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这倒是真的，想安慰和自杀干预里很多都存在这样的问题，你觉得你给的是安慰，但是无法共情他的痛苦的安慰在他看来是否定和控制，以及想让他们失去为数不多掌控欲的改造，致命的是这种沟通形式出发点都是好的，但是带来的伤害是积累的且致命的，无论是哪一类关系的沟通里都是一样的 https://t.co/MpPPNeqIi0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061141906575548783",
+        "created_at": "2026-05-31T17:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061141906575548783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cryinwater_/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/cryinwater_/status/2061030188956483979",
+              "start": 131,
+              "url": "https://t.co/MpPPNeqIi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061141906575548783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061030188956483979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒是真的，想安慰和自杀干预里很多都存在这样的问题，你觉得你给的是安慰，但是无法共情他的痛苦的安慰在他看来是否定和控制，以及想让他们失去为数不多掌控欲的改造，致命的是这种沟通形式出发点都是好的，但是带来的伤害是积累的且致命的，无论是哪一类关系的沟通里都是一样的 https://t.co/MpPPNeqIi0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561619260803207168",
+        "conversation_id": "2061030188956483979",
+        "created_at": "2026-05-31T10:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061030188956483979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061030188956483979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1517,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没有深度沟通的人很难精神共鸣，没有精神共鸣的人不该苛求“分享欲”，但很多沟通又带有了隐秘的预设，更像改造式而非呈现式，在这一步中足以筛掉许多在现有认知上无法产生共鸣的人。因为你只是把自己真实地摊开而对方却要求回应，本质上并不认可你的自由。两棵树地表以上的枝干本来就不应该缠绕在一起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 412,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 343
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T07:40:31.000Z",
+        "description": "for inner peace",
+        "id": "1561619260803207168",
+        "location": "007",
+        "name": "miooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058618368564076544/U9Ezt4zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11814,
+          "following_count": 129,
+          "like_count": 4958,
+          "listed_count": 24,
+          "media_count": 195,
+          "tweet_count": 2561
+        },
+        "username": "cryinwater_",
+        "verified": false
+      }
+    ]
+  }
+}

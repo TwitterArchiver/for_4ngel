@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060272361861972164",
+    "created_at": "2026-05-29T16:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060402227169415376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030142791033180166",
+          "start": 0,
+          "username": "Gabbrielxzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060402227169415376",
+    "in_reply_to_user_id": "2030142791033180166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060272361861972164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gabbrielxzn 这是焦虑型回避吧就是恐惧型在刚开始表达出的爱其实反而证明他把你放在不重要的人的位置 \n之后当回避内核露出之后才说明你真正触及到了他的内心 因为回避是他们的防御 没有触及到内心是不会触发他们的防御的 而这也不是想劝你放弃 更像对你的一种磨练和测试 我都这样了你还爱我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060272361861972164",
+        "created_at": "2026-05-29T16:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060402227169415376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030142791033180166",
+              "start": 0,
+              "username": "Gabbrielxzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060402227169415376",
+        "in_reply_to_user_id": "2030142791033180166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060272361861972164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gabbrielxzn 这是焦虑型回避吧就是恐惧型在刚开始表达出的爱其实反而证明他把你放在不重要的人的位置 \n之后当回避内核露出之后才说明你真正触及到了他的内心 因为回避是他们的防御 没有触及到内心是不会触发他们的防御的 而这也不是想劝你放弃 更像对你的一种磨练和测试 我都这样了你还爱我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030142791033180166",
+        "conversation_id": "2060272361861972164",
+        "created_at": "2026-05-29T08:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060272361861972164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060272361861972164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 16282,
+          "like_count": 625,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "I think the fact that at the beginning an avoidant will show and express so much love and then, out of nowhere they just abandon you and disappear. is just plain cruel."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 386,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 227
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T04:45:43.000Z",
+        "description": "Lost In My Thoughts",
+        "id": "2030142791033180166",
+        "location": "Finding Myself",
+        "name": "꧁༒☬ 𝔾𝕒𝕓𝕣𝕚𝕖𝕝 ☬༒꧂",
+        "pinned_tweet_id": "2060400716385058884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058223109841305600/rG74Dh_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 261,
+          "like_count": 20050,
+          "listed_count": 5,
+          "media_count": 289,
+          "tweet_count": 9747
+        },
+        "username": "Gabbrielxzn",
+        "verified": true
+      }
+    ]
+  }
+}

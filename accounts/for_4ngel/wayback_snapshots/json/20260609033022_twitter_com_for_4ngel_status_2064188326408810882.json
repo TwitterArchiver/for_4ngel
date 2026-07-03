@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064188310470426624"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064188326408810882",
+    "created_at": "2026-06-09T03:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064188326408810882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bqie42zqQW",
+          "end": 34,
+          "expanded_url": "https://x.com/for_4ngel/status/2064188326408810882/photo/1",
+          "media_key": "3_2064188310470426624",
+          "start": 11,
+          "url": "https://t.co/bqie42zqQW"
+        },
+        {
+          "display_url": "x.com/MioKitsukawa/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/MioKitsukawa/status/2063922925452120567",
+          "start": 35,
+          "url": "https://t.co/wR4sIIvH1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064188326408810882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063922925452120567",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他妈的笑得我一直在哭 https://t.co/bqie42zqQW https://t.co/wR4sIIvH1l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 190,
+        "media_key": "3_2064188310470426624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV4VPMagAATEG9.jpg",
+        "width": 600
+      },
+      {
+        "height": 1771,
+        "media_key": "3_2063922912894337024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSG9ELbQAAHX7l.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064188310470426624"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064188326408810882",
+        "created_at": "2026-06-09T03:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064188326408810882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqie42zqQW",
+              "end": 34,
+              "expanded_url": "https://x.com/for_4ngel/status/2064188326408810882/photo/1",
+              "media_key": "3_2064188310470426624",
+              "start": 11,
+              "url": "https://t.co/bqie42zqQW"
+            },
+            {
+              "display_url": "x.com/MioKitsukawa/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/MioKitsukawa/status/2063922925452120567",
+              "start": 35,
+              "url": "https://t.co/wR4sIIvH1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064188326408810882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063922925452120567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈的笑得我一直在哭 https://t.co/bqie42zqQW https://t.co/wR4sIIvH1l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063922912894337024"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2063922925452120567",
+        "created_at": "2026-06-08T09:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063922925452120567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R07vQaBuPX",
+              "end": 29,
+              "expanded_url": "https://x.com/MioKitsukawa/status/2063922925452120567/photo/1",
+              "media_key": "3_2063922912894337024",
+              "start": 6,
+              "url": "https://t.co/R07vQaBuPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063922925452120567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11237,
+          "like_count": 115,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我真求你了 https://t.co/R07vQaBuPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 497,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 663
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "已经 HRT 几年的 MTF | 18 岁 | 同类互 fo | ASD | 程序开发 | 不 od 不割手 | 我的性别认同是自出生以来就有的，我不是效仿和盲从 | 喜欢唐毓文❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063479038107340889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 193,
+          "like_count": 129,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

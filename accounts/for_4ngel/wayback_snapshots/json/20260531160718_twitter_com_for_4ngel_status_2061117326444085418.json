@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2060821908632027291",
+    "created_at": "2026-05-31T16:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061117326444085418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965052180261748736",
+          "start": 0,
+          "username": "Lightup0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061117326444085418",
+    "in_reply_to_user_id": "1965052180261748736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061115912942698663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lightup0214 不是体面 这在社会学上面对社交圈 看起来是体面 但是这其实是他们断尾求生的手段吧 无疑是痛苦的 所以在最大的痛苦来临之前选择断尾逃生来避免他们以为的那个\"更大的痛苦\"发生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2060821908632027291",
+        "created_at": "2026-05-31T16:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061117326444085418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965052180261748736",
+              "start": 0,
+              "username": "Lightup0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061117326444085418",
+        "in_reply_to_user_id": "1965052180261748736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061115912942698663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lightup0214 不是体面 这在社会学上面对社交圈 看起来是体面 但是这其实是他们断尾求生的手段吧 无疑是痛苦的 所以在最大的痛苦来临之前选择断尾逃生来避免他们以为的那个\"更大的痛苦\"发生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965052180261748736",
+        "conversation_id": "2060821908632027291",
+        "created_at": "2026-05-31T16:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061115912942698663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061115912942698663",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060949737763991822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 嗯…我不知道我想表达的和你说的是不是一个意思，你可能表达的是\"体面\"，我想的是\"识趣\"，当然就我个人而言……\n别人对我的态度稍微有些变化我就会有点\"应激\"，当然没那么夸张…就是觉得会设想…大概对面感到厌烦…或者不再需要我了，那如果再留下去，是否还有意义，会给彼此增加痛苦吧，于是选择放弃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 407,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 329
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T13:58:53.000Z",
+        "description": "树洞",
+        "id": "1965052180261748736",
+        "name": "...",
+        "pinned_tweet_id": "1976653566996877435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058585824594472960/QnsFoz4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 21,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 430
+        },
+        "username": "Lightup0214",
+        "verified": false
+      }
+    ]
+  }
+}

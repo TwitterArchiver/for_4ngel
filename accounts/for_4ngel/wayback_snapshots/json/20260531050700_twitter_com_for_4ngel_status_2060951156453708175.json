@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060951156453708175",
+    "created_at": "2026-05-31T05:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060951156453708175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ohc57czox35811…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/ohc57czox358110/status/2060920324724769272",
+          "start": 145,
+          "url": "https://t.co/dNxC7flQgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060951156453708175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060920324724769272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冲突的 物质的多巴胺刺激是有高度耐受的 而真正处理情绪的亲密关系的建立是催产素分泌的基础上 并不是钱可以解决任何情绪 能被物质解决任何情绪的人本身就并没有建立连接 物质可以作为情绪价值的辅助 不是主体 不存在先有鸡还是先有蛋的问题 情感中的情绪价值重在平等沟通 而不是你去买她一时的好情绪 https://t.co/dNxC7flQgQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060951156453708175",
+        "created_at": "2026-05-31T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060951156453708175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ohc57czox35811…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/ohc57czox358110/status/2060920324724769272",
+              "start": 145,
+              "url": "https://t.co/dNxC7flQgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060951156453708175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060920324724769272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冲突的 物质的多巴胺刺激是有高度耐受的 而真正处理情绪的亲密关系的建立是催产素分泌的基础上 并不是钱可以解决任何情绪 能被物质解决任何情绪的人本身就并没有建立连接 物质可以作为情绪价值的辅助 不是主体 不存在先有鸡还是先有蛋的问题 情感中的情绪价值重在平等沟通 而不是你去买她一时的好情绪 https://t.co/dNxC7flQgQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998565947779780608",
+        "conversation_id": "2060920324724769272",
+        "created_at": "2026-05-31T03:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060920324724769272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060920324724769272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人說 \n一個男人要先有物質才能給女人情緒價值\n\n你們覺得有衝突嗎\n\n有人可以回答我嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 399,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 306
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:30:34.000Z",
+        "description": "#請大家加入带有禮貌zzZZZ不喜請勿擾\n謝謝喜歡 #付費約會 #本人經營\r賴：@013llnzu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "請大家加入带有禮貌zzZZZ不喜請勿擾"
+              },
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "付費約會"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "本人經營"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "013llnzu"
+              }
+            ]
+          }
+        },
+        "id": "1998565947779780608",
+        "name": "貝貝❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055663255734132736/M8ZFow2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 1032,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 26
+        },
+        "username": "ohc57czox358110",
+        "verified": false
+      }
+    ]
+  }
+}

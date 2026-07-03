@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060497622109225080",
+    "created_at": "2026-05-30T07:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060630129815196115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944815638071169024",
+          "start": 0,
+          "username": "LsxLsz60600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060630129815196115",
+    "in_reply_to_user_id": "1944815638071169024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060629692617732452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LsxLsz60600 还真是("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060497622109225080",
+        "created_at": "2026-05-30T07:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060630129815196115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944815638071169024",
+              "start": 0,
+              "username": "LsxLsz60600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060630129815196115",
+        "in_reply_to_user_id": "1944815638071169024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060629692617732452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LsxLsz60600 还真是("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944815638071169024",
+        "conversation_id": "2060497622109225080",
+        "created_at": "2026-05-30T07:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060629692617732452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060629692617732452",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060497622109225080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 我要是买了是不是就能问我的好兄弟要不要吃我的金晔了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 392,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 259
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T17:46:13.000Z",
+        "description": "",
+        "id": "1944815638071169024",
+        "name": "LSZ_LSX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944815890547023872/5J6ElcUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 171,
+          "like_count": 1151,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 155
+        },
+        "username": "LsxLsz60600",
+        "verified": false
+      }
+    ]
+  }
+}

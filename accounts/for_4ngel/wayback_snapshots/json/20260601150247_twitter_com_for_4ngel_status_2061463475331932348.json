@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061440620745593066",
+    "created_at": "2026-06-01T15:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061463475331932348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2056969817400414208",
+          "start": 0,
+          "username": "9wvyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061463475331932348",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061462912838078730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9wvyi 和评论区其他推油说的一样，你主动去找她表示想念意图，本身你就在她心里贬值了，太好获得了，关系里始终保持一定的距离感才能在对方眼里显得有一定的神秘感和高价值，要是在一起的时候你的命都好似离不开他百依百顺无限放低姿态，那分手之后你想再表达你想念他挽回的话挽回概率几乎为0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061440620745593066",
+        "created_at": "2026-06-01T15:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061463475331932348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2056969817400414208",
+              "start": 0,
+              "username": "9wvyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061463475331932348",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061462912838078730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9wvyi 和评论区其他推油说的一样，你主动去找她表示想念意图，本身你就在她心里贬值了，太好获得了，关系里始终保持一定的距离感才能在对方眼里显得有一定的神秘感和高价值，要是在一起的时候你的命都好似离不开他百依百顺无限放低姿态，那分手之后你想再表达你想念他挽回的话挽回概率几乎为0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061440620745593066",
+        "created_at": "2026-06-01T15:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061462912838078730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2056969817400414208",
+              "start": 0,
+              "username": "9wvyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061462912838078730",
+        "in_reply_to_user_id": "2056969817400414208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061440620745593066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9wvyi 加个微信好友不表示想念不表示意图，找个你感觉说的过去的理由，或者是自己把朋友圈公开给所有人 我说实话如果你是想复合前提是她在一段时间内对这段感情留有念想并且你能无意中展示出你离开她一样过得很好 分手后复合本质上是一个实现自我价值让对方反向来追求你的过程 你的主动仅仅是留个窗口就够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 424,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 419
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T05:27:09.000Z",
+        "description": "无🚪私信随缘回 一般会回粉丝的\n讨厌我的，骂我的，我直接把咱俩照片p成结婚照，你气不气？",
+        "id": "2056969817400414208",
+        "name": "昕雪",
+        "pinned_tweet_id": "2058510282000142363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057107534696329217/6Vm8L-px_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 61,
+          "like_count": 1928,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 291
+        },
+        "username": "9wvyi",
+        "verified": false
+      }
+    ]
+  }
+}

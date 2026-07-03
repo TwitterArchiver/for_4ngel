@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063472817883189531",
+    "created_at": "2026-06-07T04:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063472817883189531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/wuyuandev/status/2063378107034415438",
+          "start": 17,
+          "url": "https://t.co/xBB1z9V3D1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063472817883189531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063378107034415438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考文献:赛博张雪峰AI转生体😅 https://t.co/xBB1z9V3D1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_2063378099702833152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKXcw4boAACoha.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063472817883189531",
+        "created_at": "2026-06-07T04:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063472817883189531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2063378107034415438",
+              "start": 17,
+              "url": "https://t.co/xBB1z9V3D1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063472817883189531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063378107034415438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考文献:赛博张雪峰AI转生体😅 https://t.co/xBB1z9V3D1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063378099702833152"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2063378107034415438",
+        "created_at": "2026-06-06T21:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063378107034415438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0UWNFS1jR",
+              "end": 54,
+              "expanded_url": "https://x.com/wuyuandev/status/2063378107034415438/photo/1",
+              "media_key": "3_2063378099702833152",
+              "start": 31,
+              "url": "https://t.co/u0UWNFS1jR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063378107034415438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1296,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没绷住了，tyw给你们准备了AI 17替代品\n尊重他人这一块 https://t.co/u0UWNFS1jR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 496,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 624
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 420,
+          "like_count": 5546,
+          "listed_count": 5,
+          "media_count": 351,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

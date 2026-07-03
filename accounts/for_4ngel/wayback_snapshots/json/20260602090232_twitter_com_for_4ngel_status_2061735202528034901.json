@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061735202528034901",
+    "created_at": "2026-06-02T09:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061735202528034901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chenpapro/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/chenpapro/status/2061637394512982026",
+          "start": 26,
+          "url": "https://t.co/wTYeW1Uc7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061735202528034901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061637394512982026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子母亲:这次你一定要提现啊 加油 马上就能提现了 https://t.co/wTYeW1Uc7g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2061637385658765312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxoR3vbEAAEHw8.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061735202528034901",
+        "created_at": "2026-06-02T09:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061735202528034901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chenpapro/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/chenpapro/status/2061637394512982026",
+              "start": 26,
+              "url": "https://t.co/wTYeW1Uc7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061735202528034901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061637394512982026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子母亲:这次你一定要提现啊 加油 马上就能提现了 https://t.co/wTYeW1Uc7g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061637385658765312"
+          ]
+        },
+        "author_id": "2015207927590891520",
+        "conversation_id": "2061637394512982026",
+        "created_at": "2026-06-02T02:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061637394512982026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rusRl7kRGs",
+              "end": 67,
+              "expanded_url": "https://x.com/chenpapro/status/2061637394512982026/photo/1",
+              "media_key": "3_2061637385658765312",
+              "start": 44,
+              "url": "https://t.co/rusRl7kRGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061637394512982026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 96065,
+          "like_count": 432,
+          "quote_count": 15,
+          "reply_count": 159,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "小红书最新攻略：带上儿子出门随便跑随便玩，争取5岁前出事故身亡，然后拿一笔丰厚的赔偿。 https://t.co/rusRl7kRGs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 433,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 452
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T23:40:09.000Z",
+        "description": "维护男性权益\n反对极端女权",
+        "id": "2015207927590891520",
+        "name": "陳男Pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029197876170244096/1ffnWFCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5511,
+          "following_count": 703,
+          "like_count": 214,
+          "listed_count": 12,
+          "media_count": 963,
+          "tweet_count": 1798
+        },
+        "username": "chenpapro",
+        "verified": true
+      }
+    ]
+  }
+}

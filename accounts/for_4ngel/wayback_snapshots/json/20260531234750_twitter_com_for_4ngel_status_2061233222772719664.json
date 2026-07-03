@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061185839653146884",
+    "created_at": "2026-05-31T23:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T00:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061233222772719664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908419799794814976",
+          "start": 0,
+          "username": "savemylife27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061233222772719664",
+    "in_reply_to_user_id": "1908419799794814976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061185839653146884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@savemylife27 正确的，高焦虑和高敏感的一些回避个体都存在这种情况急需抓住什么获取掌控感，否则就会非常焦虑，高焦虑都偏向对事件结果要求的完美主义，他们看到了一件事的所有结果也包括那个最坏的结果，发生概率可能会很小，但是只要这个概率存在就会陷入焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061185839653146884",
+        "created_at": "2026-05-31T23:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061233222772719664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908419799794814976",
+              "start": 0,
+              "username": "savemylife27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061233222772719664",
+        "in_reply_to_user_id": "1908419799794814976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061185839653146884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@savemylife27 正确的，高焦虑和高敏感的一些回避个体都存在这种情况急需抓住什么获取掌控感，否则就会非常焦虑，高焦虑都偏向对事件结果要求的完美主义，他们看到了一件事的所有结果也包括那个最坏的结果，发生概率可能会很小，但是只要这个概率存在就会陷入焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908419799794814976",
+        "conversation_id": "2061185839653146884",
+        "created_at": "2026-05-31T20:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061185839653146884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ninjacatrising…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/ninjacatrising/status/2061072822928048417",
+              "start": 39,
+              "url": "https://t.co/31kqzC3DJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061185839653146884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061072822928048417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实还有不接受事情偏离自己预想的轨迹发展的控制欲吧 不愿意接受现实与想象不符 https://t.co/31kqzC3DJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 413,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 371
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T07:22:06.000Z",
+        "description": "如果叹气可以带走一切痛苦",
+        "id": "1908419799794814976",
+        "location": "Japan",
+        "name": "你壞也是我的錯嗎",
+        "pinned_tweet_id": "2060217650266214414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026895882197590016/9Pbuo7Bu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 27,
+          "like_count": 1207,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 453
+        },
+        "username": "savemylife27",
+        "verified": false
+      }
+    ]
+  }
+}

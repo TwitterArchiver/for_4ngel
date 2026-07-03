@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060351141951779307",
+    "created_at": "2026-05-29T15:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060388453095968825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060388453095968825",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060351141951779307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 客观来看其实要是我们执政也未必能想出更好的方案，在一个人口如此庞大的国家，区域发展尚不平衡，要实现阶级流动，这已经是最好的解决方案了，至少在初期是。现在发展不平衡愈发严重，AI进步，知识平权，职业平权都即将到来，到时候该怎么收拾这个烂摊子他们不知道我们也不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060351141951779307",
+        "created_at": "2026-05-29T15:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060388453095968825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060388453095968825",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060351141951779307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 客观来看其实要是我们执政也未必能想出更好的方案，在一个人口如此庞大的国家，区域发展尚不平衡，要实现阶级流动，这已经是最好的解决方案了，至少在初期是。现在发展不平衡愈发严重，AI进步，知识平权，职业平权都即将到来，到时候该怎么收拾这个烂摊子他们不知道我们也不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060351141951779307",
+        "created_at": "2026-05-29T13:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060351141951779307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FliexLanPACZ/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/FliexLanPACZ/status/2060343556855013722",
+              "start": 142,
+              "url": "https://t.co/ji4DRuX48u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060351141951779307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "应试教育目前不可能废除，而且和西方教育比起来，应试教育在人才培养上确实更具有优势。\n\n真正危害下一代的是「唯成绩论」。「唯成绩论」将成绩作为评判一个人的唯一标准，然而人的发展不可能只有一个维度，寥寥几个一维数字不可能完整概括一个人，否则一定会产生严重失真，即「考试成绩概括的人」和现 实中的这个人有非常大的差异。比如環状線成绩很高，那么「考试成绩概括的環状線」就是一个智力很高的人，但实际上的環状線是一个智力低下的人，只是善于做题罢了。\n\n「唯成绩论」将人生目标限定为「考试成绩」这一件事上。那取得很高的「考试成绩」之后呢？继续取得更高的「考试成绩」？老中「教育家」总是把人生比作一场考试，但就像環状線刚刚说的那样，寥寥几个一维数字又怎能准确评判一个人的人生呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1119,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060343556855013722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "应试教育目前不可能废除，而且和西方教育比起来，应试教育在人才培养上确实更具有优势。\n\n真正危害下一代的是「唯成绩论」。「唯成绩论」将成绩作为评判一个人的唯一标准，然而人的发展不可能只有一个维度，寥寥几个一维数字不可能完整概括一个人，否则一定会产生严重失真，即「考试成绩概括的人」和现 https://t.co/ji4DRuX48u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 384,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 220
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4368,
+          "following_count": 865,
+          "like_count": 23159,
+          "listed_count": 11,
+          "media_count": 1229,
+          "tweet_count": 6900
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

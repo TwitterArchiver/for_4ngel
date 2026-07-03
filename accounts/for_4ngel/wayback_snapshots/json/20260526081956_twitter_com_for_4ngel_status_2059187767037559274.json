@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059187473532731392",
+        "3_2059187473624993792",
+        "3_2059187473637670912"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059187767037559274",
+    "created_at": "2026-05-26T08:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059187767037559274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HEXKrJwUZL",
+          "end": 51,
+          "expanded_url": "https://x.com/for_4ngel/status/2059187767037559274/photo/1",
+          "media_key": "3_2059187473532731392",
+          "start": 28,
+          "url": "https://t.co/HEXKrJwUZL"
+        },
+        {
+          "display_url": "pic.x.com/HEXKrJwUZL",
+          "end": 51,
+          "expanded_url": "https://x.com/for_4ngel/status/2059187767037559274/photo/1",
+          "media_key": "3_2059187473624993792",
+          "start": 28,
+          "url": "https://t.co/HEXKrJwUZL"
+        },
+        {
+          "display_url": "pic.x.com/HEXKrJwUZL",
+          "end": 51,
+          "expanded_url": "https://x.com/for_4ngel/status/2059187767037559274/photo/1",
+          "media_key": "3_2059187473637670912",
+          "start": 28,
+          "url": "https://t.co/HEXKrJwUZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059187767037559274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天喝个酒吐的恶心死我了，为什么要这样对我，我的土豆啊 https://t.co/HEXKrJwUZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059187473532731392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO0GN3aQAAnfvm.jpg",
+        "width": 396
+      },
+      {
+        "height": 922,
+        "media_key": "3_2059187473624993792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO0GONaEAAH2uE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059187473637670912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO0GOQbgAAP8zG.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059187473532731392",
+            "3_2059187473624993792",
+            "3_2059187473637670912"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059187767037559274",
+        "created_at": "2026-05-26T08:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059187767037559274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEXKrJwUZL",
+              "end": 51,
+              "expanded_url": "https://x.com/for_4ngel/status/2059187767037559274/photo/1",
+              "media_key": "3_2059187473532731392",
+              "start": 28,
+              "url": "https://t.co/HEXKrJwUZL"
+            },
+            {
+              "display_url": "pic.x.com/HEXKrJwUZL",
+              "end": 51,
+              "expanded_url": "https://x.com/for_4ngel/status/2059187767037559274/photo/1",
+              "media_key": "3_2059187473624993792",
+              "start": 28,
+              "url": "https://t.co/HEXKrJwUZL"
+            },
+            {
+              "display_url": "pic.x.com/HEXKrJwUZL",
+              "end": 51,
+              "expanded_url": "https://x.com/for_4ngel/status/2059187767037559274/photo/1",
+              "media_key": "3_2059187473637670912",
+              "start": 28,
+              "url": "https://t.co/HEXKrJwUZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059187767037559274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天喝个酒吐的恶心死我了，为什么要这样对我，我的土豆啊 https://t.co/HEXKrJwUZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我乐意解答~",
+        "id": "1809604484173295620",
+        "location": "中国",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 298,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

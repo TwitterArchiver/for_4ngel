@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060581537859743992",
+    "created_at": "2026-05-30T04:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060581981759692964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809951057851953152",
+          "start": 0,
+          "username": "jhu207586579619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060581981759692964",
+    "in_reply_to_user_id": "1809951057851953152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060581537859743992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhu207586579619 一般特别理性的人都是偏高焦虑的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060581537859743992",
+        "created_at": "2026-05-30T04:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060581981759692964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809951057851953152",
+              "start": 0,
+              "username": "jhu207586579619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060581981759692964",
+        "in_reply_to_user_id": "1809951057851953152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060581537859743992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhu207586579619 一般特别理性的人都是偏高焦虑的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809951057851953152",
+        "conversation_id": "2060581537859743992",
+        "created_at": "2026-05-30T04:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060581537859743992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060581537859743992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友最好的一点就是他不是回避型，每次我们吵了场大的我都很怕他会提分手或者冷暴力我，结果根本不会，消气了就过来哄我了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 390,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 254
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T14:02:34.000Z",
+        "description": "研究生在读，成分是烤/术/粥\n...男友重度依赖，恋爱脑，纯压抑垢\n176天空树，每天都在苦恼买衣服的事情",
+        "id": "1809951057851953152",
+        "name": "橘絵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821784544019935233/XvV10Xdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 321,
+          "like_count": 3490,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 650
+        },
+        "username": "jhu207586579619",
+        "verified": false
+      }
+    ]
+  }
+}

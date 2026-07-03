@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062543143674007552"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062543699528364410",
+    "created_at": "2026-06-04T14:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062543699528364410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6cNmcjgEG",
+          "end": 97,
+          "expanded_url": "https://x.com/for_4ngel/status/2062543699528364410/video/1",
+          "media_key": "13_2062543143674007552",
+          "start": 74,
+          "url": "https://t.co/q6cNmcjgEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062543699528364410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总算要逃离原生学校了吧，我倒是乐意在x上发些日常，今天刷到帖子说保护隐私，谨慎分享啥的，我倒无所谓吧，我不是啥大人物谁会特地查我在哪来蜜饯我。。。 https://t.co/q6cNmcjgEG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17525,
+        "height": 1920,
+        "media_key": "13_2062543143674007552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062543143674007552/img/l_qpKmuPhanmD7rb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062543143674007552/vid/avc1/320x568/JTHqBQx980umqMdZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062543143674007552/vid/avc1/480x852/IB0c9ld3hPQ6lWz6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062543143674007552/vid/avc1/720x1280/NzpChuS8bIej4RFC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062543143674007552/pl/_SmJUtH_C4ZJoVh3.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062543143674007552"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062543699528364410",
+        "created_at": "2026-06-04T14:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062543699528364410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6cNmcjgEG",
+              "end": 97,
+              "expanded_url": "https://x.com/for_4ngel/status/2062543699528364410/video/1",
+              "media_key": "13_2062543143674007552",
+              "start": 74,
+              "url": "https://t.co/q6cNmcjgEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543699528364410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总算要逃离原生学校了吧，我倒是乐意在x上发些日常，今天刷到帖子说保护隐私，谨慎分享啥的，我倒无所谓吧，我不是啥大人物谁会特地查我在哪来蜜饯我。。。 https://t.co/q6cNmcjgEG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 476,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 518
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

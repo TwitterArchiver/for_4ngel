@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059786998488215581",
+    "created_at": "2026-05-28T14:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059999791376195632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2050931076911304704",
+          "start": 0,
+          "username": "Licnzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059999791376195632",
+    "in_reply_to_user_id": "2050931076911304704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059981990871588912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Licnzv 前段时间喝了酒刺激也大，主要是压力大情绪不好一天要抽一包根本不停，我也是服了，而且感觉不过肺啥感觉没有吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059786998488215581",
+        "created_at": "2026-05-28T14:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059999791376195632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2050931076911304704",
+              "start": 0,
+              "username": "Licnzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059999791376195632",
+        "in_reply_to_user_id": "2050931076911304704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059981990871588912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Licnzv 前段时间喝了酒刺激也大，主要是压力大情绪不好一天要抽一包根本不停，我也是服了，而且感觉不过肺啥感觉没有吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050931076911304704",
+        "conversation_id": "2059786998488215581",
+        "created_at": "2026-05-28T12:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059981990871588912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059981990871588912",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059786998488215581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel .... 你别一直过肺啊兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 359,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 166
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T13:31:58.000Z",
+        "description": "",
+        "id": "2050931076911304704",
+        "name": "Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055652344168361984/mDig9aGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "Licnzv",
+        "verified": false
+      }
+    ]
+  }
+}

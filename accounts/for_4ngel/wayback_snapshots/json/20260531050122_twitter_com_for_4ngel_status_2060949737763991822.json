@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060821908632027291",
+    "created_at": "2026-05-31T05:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060949737763991822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965052180261748736",
+          "start": 0,
+          "username": "Lightup0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060949737763991822",
+    "in_reply_to_user_id": "1965052180261748736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060821908632027291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lightup0214 回避型会这样吧 在自我感觉不对的时候主动切断 与其成为被抛弃者他们会率先出手当那个抛弃的主动者 这也导致他们总是亲手切断和一个自己可能有美好未来的人的连接 刚开始可能是麻木的但是后知后觉后无疑是痛苦的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2060821905905754112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmCms7bIAAaWTE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 700,
+        "media_key": "3_2060821906207690752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmCmuDaUAAGyQs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060821908632027291",
+        "created_at": "2026-05-31T05:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060949737763991822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965052180261748736",
+              "start": 0,
+              "username": "Lightup0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060949737763991822",
+        "in_reply_to_user_id": "1965052180261748736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060821908632027291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lightup0214 回避型会这样吧 在自我感觉不对的时候主动切断 与其成为被抛弃者他们会率先出手当那个抛弃的主动者 这也导致他们总是亲手切断和一个自己可能有美好未来的人的连接 刚开始可能是麻木的但是后知后觉后无疑是痛苦的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060821905905754112",
+            "3_2060821906207690752"
+          ]
+        },
+        "author_id": "1965052180261748736",
+        "conversation_id": "2060821908632027291",
+        "created_at": "2026-05-30T20:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060821908632027291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsgBj7f3T0",
+              "end": 136,
+              "expanded_url": "https://x.com/Lightup0214/status/2060821908632027291/photo/1",
+              "media_key": "3_2060821905905754112",
+              "start": 113,
+              "url": "https://t.co/nsgBj7f3T0"
+            },
+            {
+              "display_url": "pic.x.com/nsgBj7f3T0",
+              "end": 136,
+              "expanded_url": "https://x.com/Lightup0214/status/2060821908632027291/photo/1",
+              "media_key": "3_2060821906207690752",
+              "start": 113,
+              "url": "https://t.co/nsgBj7f3T0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060821908632027291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日的AI夜谈的收获…\n\"不要急着证明自己“不配幸福”先练习在不安全感出现时，不立刻做终局决定\n因为你现在的问题不是“不会爱”，\n而是：一旦不舒服，就会直接结束整段关系\n这会让任何可能的稳定关系都还没来得及长出来就被切断。\" https://t.co/nsgBj7f3T0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 399,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 305
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T13:58:53.000Z",
+        "description": "树洞",
+        "id": "1965052180261748736",
+        "name": "...",
+        "pinned_tweet_id": "1976653566996877435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058585824594472960/QnsFoz4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 21,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 429
+        },
+        "username": "Lightup0214",
+        "verified": false
+      }
+    ]
+  }
+}

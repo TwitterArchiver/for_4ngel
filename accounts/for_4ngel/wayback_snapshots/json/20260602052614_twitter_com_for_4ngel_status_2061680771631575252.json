@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061680771631575252",
+    "created_at": "2026-06-02T05:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061680771631575252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/honoka_520/sta…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/honoka_520/status/2061678192042324339",
+          "start": 144,
+          "url": "https://t.co/o9K3JAoO0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061680771631575252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061678192042324339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想说的是对于已经有明确想要自杀的人来说 你们所做的一切本质上都是自我感动让自己心安理得的自私行为 你不能通过网络上的三言两语修复一个满是破碎和伤痕的灵魂 或许你们说的只是一剂吗啡 但是伤口没被止血终究会休克死亡的 他人承受痛苦不可衡量 不能用你们觉得\"这好像也不是绝境\"来衡量他人痛苦 https://t.co/o9K3JAoO0F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061680771631575252",
+        "created_at": "2026-06-02T05:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061680771631575252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/honoka_520/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/honoka_520/status/2061678192042324339",
+              "start": 144,
+              "url": "https://t.co/o9K3JAoO0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061680771631575252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061678192042324339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想说的是对于已经有明确想要自杀的人来说 你们所做的一切本质上都是自我感动让自己心安理得的自私行为 你不能通过网络上的三言两语修复一个满是破碎和伤痕的灵魂 或许你们说的只是一剂吗啡 但是伤口没被止血终究会休克死亡的 他人承受痛苦不可衡量 不能用你们觉得\"这好像也不是绝境\"来衡量他人痛苦 https://t.co/o9K3JAoO0F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052592592244858880",
+        "conversation_id": "2061678192042324339",
+        "created_at": "2026-06-02T05:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061678192042324339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061678192042324339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1、如果我的离开会给你带来不好的情绪，请一定要远离我\n2、你享有知情权，但也请尊重我的选择\n3、不要对我产生「救世主想法」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 431,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 449
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "我期待着…",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2061676667085660464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 259,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 316
+        },
+        "username": "honoka_520",
+        "verified": false
+      }
+    ]
+  }
+}

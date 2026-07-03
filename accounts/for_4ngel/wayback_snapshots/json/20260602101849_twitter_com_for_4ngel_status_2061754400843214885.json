@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061753899418321250",
+    "created_at": "2026-06-02T10:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061754400843214885"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061754400843214885",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061753899418321250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "研究里面还指出二氧化碳能插入细胞脂质双层膜使其膨胀疏松，让药物小分子更易渗透。可能暂时改变细胞间紧密连接蛋白结构，打开旁细胞途径通路，在约20分钟内恢复，增强了药物穿过肠道屏障的能力。刺激肠道(十二指肠)分泌碳酸氢根，这可能通过改变局部离子环境，调节药物跨膜转运和吸收效率。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061753899418321250",
+        "created_at": "2026-06-02T10:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061754400843214885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061754400843214885",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061753899418321250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "研究里面还指出二氧化碳能插入细胞脂质双层膜使其膨胀疏松，让药物小分子更易渗透。可能暂时改变细胞间紧密连接蛋白结构，打开旁细胞途径通路，在约20分钟内恢复，增强了药物穿过肠道屏障的能力。刺激肠道(十二指肠)分泌碳酸氢根，这可能通过改变局部离子环境，调节药物跨膜转运和吸收效率。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061753899418321250",
+        "created_at": "2026-06-02T10:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061753899418321250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2061751954817298555",
+              "start": 134,
+              "url": "https://t.co/hBrk5BzE1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061753899418321250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061751954817298555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦我查到了一篇资料研究\"含咖啡因与糖的碳酸影响对特定药物吸收率的影响\"资料里只给了部分药物没涵盖所有药物没有给出加巴喷丁但是解释了大概原理，主要因素是二氧化碳，ph不用说了促进方面简述一下延时胃排空加速溶解促进胃肠蠕动使药物更快达到吸收场所，还有一部分我打在评论里吧 https://t.co/hBrk5BzE1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 434,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 460
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061132162678882371",
+    "created_at": "2026-05-31T18:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061153615252009093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809951057851953152",
+          "start": 0,
+          "username": "jhu207586579619"
+        },
+        {
+          "end": 26,
+          "id": "1856361988898885632",
+          "start": 17,
+          "username": "ruriko_m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061153615252009093",
+    "in_reply_to_user_id": "1809951057851953152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061151840893596096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhu207586579619 @ruriko_m 是的，看你之前发帖的描述也能看出来，他的创伤带来的疾病对外的感情表达似乎是一个没法靠自己打破的循环，你还真是他生命中的天使啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061132162678882371",
+        "created_at": "2026-05-31T18:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061153615252009093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809951057851953152",
+              "start": 0,
+              "username": "jhu207586579619"
+            },
+            {
+              "end": 26,
+              "id": "1856361988898885632",
+              "start": 17,
+              "username": "ruriko_m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061153615252009093",
+        "in_reply_to_user_id": "1809951057851953152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061151840893596096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhu207586579619 @ruriko_m 是的，看你之前发帖的描述也能看出来，他的创伤带来的疾病对外的感情表达似乎是一个没法靠自己打破的循环，你还真是他生命中的天使啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809951057851953152",
+        "conversation_id": "2061132162678882371",
+        "created_at": "2026-05-31T18:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061151840893596096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            },
+            {
+              "end": 20,
+              "id": "1856361988898885632",
+              "start": 11,
+              "username": "ruriko_m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061151840893596096",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061150303093985482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel @ruriko_m 是，我知道是基于创伤，还是两方都有，但是让他改变很困难，只能我自己努力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 408,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 356
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T14:02:34.000Z",
+        "description": "研究生在读，成分是烤/术/粥\n...男友重度依赖，恋爱脑，纯压抑垢\n176天空树，每天都在苦恼买衣服的事情",
+        "id": "1809951057851953152",
+        "name": "橘絵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821784544019935233/XvV10Xdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 326,
+          "like_count": 3814,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 758
+        },
+        "username": "jhu207586579619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T15:42:57.000Z",
+        "description": "",
+        "id": "1856361988898885632",
+        "name": "小琉璃",
+        "pinned_tweet_id": "1937262229046661304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012964470931210240/w7j2GEVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 1280,
+          "like_count": 11197,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 962
+        },
+        "username": "ruriko_m",
+        "verified": false
+      }
+    ]
+  }
+}

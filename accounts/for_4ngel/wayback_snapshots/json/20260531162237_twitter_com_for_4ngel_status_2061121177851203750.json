@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061112550033608983",
+    "created_at": "2026-05-31T16:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061121177851203750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026854925389668353",
+          "start": 0,
+          "username": "zRC5CzU9xd43755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061121177851203750",
+    "in_reply_to_user_id": "2026854925389668353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061120901341417783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zRC5CzU9xd43755 明天试试吧，谢谢你的建议，祝你天天开心🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061112550033608983",
+        "created_at": "2026-05-31T16:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061121177851203750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026854925389668353",
+              "start": 0,
+              "username": "zRC5CzU9xd43755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061121177851203750",
+        "in_reply_to_user_id": "2026854925389668353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061120901341417783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zRC5CzU9xd43755 明天试试吧，谢谢你的建议，祝你天天开心🤪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026854925389668353",
+        "conversation_id": "2061112550033608983",
+        "created_at": "2026-05-31T16:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061120901341417783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061120901341417783",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061117998484873651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 你可以试试蒲地蓝消炎片，或者一些中药成分的药，我感觉我阿莫西林抗生素吃多了都免疫了，我现在嗓子一感觉到不舒服就吃消炎片和冬凌草片吃几次就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 412,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 335
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T03:02:04.000Z",
+        "description": "无聊",
+        "id": "2026854925389668353",
+        "name": "想不出名字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060010815449882624/xhl28Zi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "zRC5CzU9xd43755",
+        "verified": false
+      }
+    ]
+  }
+}

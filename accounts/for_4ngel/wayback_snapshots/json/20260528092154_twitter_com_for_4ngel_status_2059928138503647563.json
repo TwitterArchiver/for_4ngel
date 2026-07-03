@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059893720439554271",
+    "created_at": "2026-05-28T09:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059928138503647563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039295991296192512",
+          "start": 0,
+          "username": "MutsumiKawa1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059928138503647563",
+    "in_reply_to_user_id": "2039295991296192512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059893720439554271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiKawa1i 艾司氯氨酮临床抗抑郁同理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2059893715565780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a6dboAAKJIQ.png",
+        "width": 1260
+      },
+      {
+        "height": 1863,
+        "media_key": "3_2059893717012758528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a_2awAA-UYh.png",
+        "width": 1260
+      },
+      {
+        "height": 2213,
+        "media_key": "3_2059893716282998784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a9IbgAAGDgU.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1984,
+        "media_key": "3_2059893716459159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a9ybgAAynlA.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059893720439554271",
+        "created_at": "2026-05-28T09:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059928138503647563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039295991296192512",
+              "start": 0,
+              "username": "MutsumiKawa1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059928138503647563",
+        "in_reply_to_user_id": "2039295991296192512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059893720439554271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiKawa1i 艾司氯氨酮临床抗抑郁同理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059893715565780992",
+            "3_2059893717012758528",
+            "3_2059893716282998784",
+            "3_2059893716459159552"
+          ]
+        },
+        "author_id": "2039295991296192512",
+        "conversation_id": "2059893720439554271",
+        "created_at": "2026-05-28T07:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059893720439554271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893715565780992",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893717012758528",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893716282998784",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893716459159552",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059893720439554271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 187,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚可以通过改变神经可塑性，从而带来【新奇感强化】，打破旧有思维模式并重组，从而起到抗抑郁的效果，这一点和DXM抗抑郁原理几乎相同，但是美金刚没有DXM那种血清素能，所以不会给您带来嗜睡和情感钝化的副作用哦。\n附：很多人认为dxm的抗抑郁效果来自血清素能，其实更多还是来自NMDAR拮抗 https://t.co/hmizY5SWOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 353,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 150
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T10:57:57.000Z",
+        "description": "小睦的3代目转生号，前世：@MutsumiXiaomu     是位边od边支黑的小可爱喵~    这一生也要坚持不懈地爱你们哦ヾ(^▽^*)))     亲爱的od导师：@tanka_TWT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "MutsumiXiaomu"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tanka_TWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/vcFGP6Sdi8"
+              }
+            ]
+          }
+        },
+        "id": "2039295991296192512",
+        "location": "为这个世界而祷哀吧",
+        "name": "MutsumiKawa1i 🇯🇵",
+        "pinned_tweet_id": "2049382401219154122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303241511604225/Nn4jEtqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 417,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/vcFGP6Sdi8",
+        "username": "MutsumiKawa1i",
+        "verified": false
+      }
+    ]
+  }
+}

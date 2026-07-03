@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060329803824365691",
+    "created_at": "2026-05-29T13:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060351532898697645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060351532898697645",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060329803824365691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 恋爱脑，只是当今世俗化恋爱观普遍的情况下，给异端\"对爱情的理想主义\"贴的标签以此来合理化自己的追求是正确的，因为他们在异端身上看到了自己曾经渴望纯粹的爱的自己，但是同时也嫉妒为什么这种人还没有被过度伤害变得同样世俗化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060329803824365691",
+        "created_at": "2026-05-29T13:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060351532898697645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060351532898697645",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060329803824365691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 恋爱脑，只是当今世俗化恋爱观普遍的情况下，给异端\"对爱情的理想主义\"贴的标签以此来合理化自己的追求是正确的，因为他们在异端身上看到了自己曾经渴望纯粹的爱的自己，但是同时也嫉妒为什么这种人还没有被过度伤害变得同样世俗化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2060329803824365691",
+        "created_at": "2026-05-29T11:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060329803824365691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060329803824365691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我眼中的恋爱脑\n恋爱，作为人的一种基本的情绪需求，于人也总是带来直观的影响。在这种情绪漩涡的左右下，有一类人会因多巴胺的过度分泌而大脑冒泡，而经常性的失去理智，因而催生出一种群体，名曰恋爱脑\n这种人群通常是浪漫主义，易沉浸在自我幻想的温柔乡，走不出自己理想的象牙塔\n\n在当今社会，各种爱情的悲剧层出不穷。诸如我本人——包括我自己，周围起码有四五个恋爱脑的朋友倾诉过他们这种悲伤\n或是暗恋史，或是患得患失，或是爱而不得\n站在我的角度，我其实是不太希望我的朋友是一个恋爱脑，因为恋爱脑在这种处理恋爱关系中是作为易被伤害的群体，如果不能从被爱者身上获得同等的爱，往往能够成为他们生命所不能承受之轻\n\n由于恋爱脑的过度情绪性，使这类群体经常遭受抨击。换句话说，恋爱脑只要进入了爱恋状态，那就是10头牛也拉不回头，而且经常性的会一错再错\n可能因此，恋爱脑经常被认定为不清醒不自尊的群体，但我个人认为其实是完全相反的。其实恋爱脑的群体往往是最清醒最自尊的\n\n我自己也经常把这句话挂在嘴边：爱人先爱己\n因为具有爱人能力的人往往都有着自己的原则和底线\n\n恋爱脑通常是因为自己的心动买单，但这也正是反映出恋爱脑具有强烈的趋光性，因为被爱者一定具有他们能够欣赏到的点。可能有人说某些恋爱脑因为爱而失去了自我\n\n其实我认为这类人群往往是缺爱人群而并非恋爱脑，因为恋爱脑是一定具有爱人能力的，而缺爱人群只是单纯的渴望依恋\n而这一点恰恰证实了其实恋爱脑是清醒的\n哪怕是爱上一个不可能的人，真正的恋爱脑也只能说自己是难得糊涂。因为我想的就是爱情，也就是那么回事，一生之重，不过饱餐与被爱\n\n一生所求，不过温暖与良人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 192,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我眼中的恋爱脑\n恋爱，作为人的一种基本的情绪需求，于人也总是带来直观的影响。在这种情绪漩涡的左右下，有一类人会因多巴胺的过度分泌而大脑冒泡，而经常性的失去理智，因而催生出一种群体，名曰恋爱脑\n这种人群通常是浪漫主义，易沉浸在自我幻想的温柔乡，走不出自己理想的象牙塔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 381,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 211
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5673,
+          "following_count": 3000,
+          "like_count": 50866,
+          "listed_count": 19,
+          "media_count": 3022,
+          "tweet_count": 12830
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

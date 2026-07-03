@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2063266158955139223",
+    "created_at": "2026-06-06T15:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063286298279084526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063286298279084526",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063266158955139223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Mihari01 者和问为什么没有人开表面上是戒网瘾学校实际上是用家长给的学费让其好好接受心理疏导和户外活动的真正素质教育一样天真 很简单的 他们为了让家长看见效果就得使用极端手段 原因是利润高 见效快 表面上看起来让家长满意就行 要是真像你这样利润低不说 时间周期长 家长都求见效快 这也是他们的卖点之一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2063266158955139223",
+        "created_at": "2026-06-06T15:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063286298279084526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063286298279084526",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063266158955139223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Mihari01 者和问为什么没有人开表面上是戒网瘾学校实际上是用家长给的学费让其好好接受心理疏导和户外活动的真正素质教育一样天真 很简单的 他们为了让家长看见效果就得使用极端手段 原因是利润高 见效快 表面上看起来让家长满意就行 要是真像你这样利润低不说 时间周期长 家长都求见效快 这也是他们的卖点之一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2063266158955139223",
+        "created_at": "2026-06-06T14:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063266158955139223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063266158955139223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 249,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有人开表面上是扭转机构实际上用家长给的学费让孩子好好接受hrt治疗和心理疏导的真正的素质教育……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 494,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 617
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "•女子高生のゆるい日常～☆ ͜ \n\n•🌈Bi♀.写真家.クリア系.社会学.LGBTQフレンドリー\n\n•旅してきた軌跡と、これから叶える夢。#SciComm\n\n•🚪52💖フォローありがとう～！みはるんは永遠にみんなを愛してるよ！✨\n\n•他のSNSやGitHubはリンクから",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "SciComm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kingyosama",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kingyosama",
+                "start": 0,
+                "url": "https://t.co/A5JnYGZ3B4"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060703266305192121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 492,
+          "like_count": 978,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/A5JnYGZ3B4",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

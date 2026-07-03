@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060533697804488900",
+    "created_at": "2026-05-30T01:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060533697804488900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvovl3/status/…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/lvovl3/status/2060217195091882175",
+          "start": 132,
+          "url": "https://t.co/BsWy44hAZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060533697804488900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060217195091882175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有的人可能只是一时冲动只是需要恰当的关心 而不恰当的绑架式关心会把它们从悬崖边缘推下去 与有愿自杀者沟通的前提是不否定它当下的情绪和想法 并且表示理解 如果只是一时冲动那作为倾听者的疏导完全有用 要是做足准备真的想死 那说什么也没用 因为此时痛苦已经超出求生欲望 https://t.co/BsWy44hAZP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060533697804488900",
+        "created_at": "2026-05-30T01:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060533697804488900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvovl3/status/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/lvovl3/status/2060217195091882175",
+              "start": 132,
+              "url": "https://t.co/BsWy44hAZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060533697804488900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060217195091882175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的人可能只是一时冲动只是需要恰当的关心 而不恰当的绑架式关心会把它们从悬崖边缘推下去 与有愿自杀者沟通的前提是不否定它当下的情绪和想法 并且表示理解 如果只是一时冲动那作为倾听者的疏导完全有用 要是做足准备真的想死 那说什么也没用 因为此时痛苦已经超出求生欲望 https://t.co/BsWy44hAZP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2060217195091882175",
+        "created_at": "2026-05-29T04:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060217195091882175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060217195091882175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "逼迫别人活着非常邪恶\n\n就像服刑一样\n\n但整个社会都在盯着你不让你自杀\n\n为什么不能尊重别人的想法呢？\n我是为你好哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 387,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 244
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "AUDHD 双相 精神分裂 od思诺思信徒 ed\n同类回fo\n蓝色天空账号：\nhttps://t.co/c6s8BZ495t\n只是一个预防，还没有搬家",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/justwa…",
+                "end": 62,
+                "expanded_url": "https://bsky.app/profile/justwannaneverhere.bsky.social",
+                "start": 39,
+                "url": "https://t.co/c6s8BZ495t"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2051808991211389330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045457060691947520/5tmyTi7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 333,
+          "like_count": 2683,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2679
+        },
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

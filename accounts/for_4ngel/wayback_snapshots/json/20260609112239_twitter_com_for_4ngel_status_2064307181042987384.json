@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064307130711285760"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064307181042987384",
+    "created_at": "2026-06-09T11:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064307181042987384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T5nyClhP4z",
+          "end": 32,
+          "expanded_url": "https://x.com/for_4ngel/status/2064307181042987384/photo/1",
+          "media_key": "3_2064307130711285760",
+          "start": 9,
+          "url": "https://t.co/T5nyClhP4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064307181042987384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额，什么叫我磕了 https://t.co/T5nyClhP4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064307130711285760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXkZfFaIAAlZ9g.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064307130711285760"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064307181042987384",
+        "created_at": "2026-06-09T11:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064307181042987384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5nyClhP4z",
+              "end": 32,
+              "expanded_url": "https://x.com/for_4ngel/status/2064307181042987384/photo/1",
+              "media_key": "3_2064307130711285760",
+              "start": 9,
+              "url": "https://t.co/T5nyClhP4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064307181042987384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额，什么叫我磕了 https://t.co/T5nyClhP4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 499,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 669
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

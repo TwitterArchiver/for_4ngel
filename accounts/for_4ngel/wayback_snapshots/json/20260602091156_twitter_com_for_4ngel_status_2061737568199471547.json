@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061654404642807904",
+    "created_at": "2026-06-02T09:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061737568199471547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825118222858985472",
+          "start": 0,
+          "username": "Yuliko717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061737568199471547",
+    "in_reply_to_user_id": "1825118222858985472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061735819438952823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuliko717 一次性吃吸收率很低很低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061654404642807904",
+        "created_at": "2026-06-02T09:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061737568199471547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825118222858985472",
+              "start": 0,
+              "username": "Yuliko717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061737568199471547",
+        "in_reply_to_user_id": "1825118222858985472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061735819438952823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuliko717 一次性吃吸收率很低很低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825118222858985472",
+        "conversation_id": "2061654404642807904",
+        "created_at": "2026-06-02T09:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061735819438952823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061735819438952823",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061654404642807904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 我基本是吃2板然后感觉没药效加0.3g的5t有时候会很晕 在外头会走路都有点走不稳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 433,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 453
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T10:31:15.000Z",
+        "description": "インターネット・エンジェルただいま降臨",
+        "id": "1825118222858985472",
+        "location": "药店",
+        "name": "Yuliko（夜神日版）",
+        "pinned_tweet_id": "2059783532541800789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061104366422196224/AdjvSPJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3964,
+          "following_count": 200,
+          "like_count": 581,
+          "listed_count": 11,
+          "media_count": 354,
+          "tweet_count": 2108
+        },
+        "username": "Yuliko717",
+        "verified": false
+      }
+    ]
+  }
+}

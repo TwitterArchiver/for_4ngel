@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2064313575339164030",
+    "created_at": "2026-06-09T11:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064313575339164030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/txqv3/status/2…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/txqv3/status/2064312814551138640",
+          "start": 95,
+          "url": "https://t.co/Shrl9rcJFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064313575339164030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064312814551138640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加巴喷丁族药物，巴氯芬苯基对位氯原子去掉之后就这玩意，但是作用机理和巴氯芬差远了，娱乐的话只能很低频率的玩因为有多巴胺和gaba成瘾，但是体验应该还是不错的，这么久没od了还不得大o特o😪 https://t.co/Shrl9rcJFU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2064313575339164030",
+        "created_at": "2026-06-09T11:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064313575339164030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/txqv3/status/2…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/txqv3/status/2064312814551138640",
+              "start": 95,
+              "url": "https://t.co/Shrl9rcJFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064313575339164030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064312814551138640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加巴喷丁族药物，巴氯芬苯基对位氯原子去掉之后就这玩意，但是作用机理和巴氯芬差远了，娱乐的话只能很低频率的玩因为有多巴胺和gaba成瘾，但是体验应该还是不错的，这么久没od了还不得大o特o😪 https://t.co/Shrl9rcJFU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456872541952229379",
+        "conversation_id": "2064309888742982096",
+        "created_at": "2026-06-09T11:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064312814551138640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064312814551138640",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064309888742982096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 妈妈这是什么🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 499,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 671
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "底层农村人，并非做题家，基本每天长时间推特在线，爱好分享一些自己的魔改手办收藏，有兴趣可以私我进q群玩，对各种卡牌也很有兴趣，有所收藏，做梦高手，逃避人生高手，另外我被全身烧伤过，身体残疾，状态很差，有没有给我施舍点的……",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 1302,
+          "like_count": 71279,
+          "listed_count": 6,
+          "media_count": 1536,
+          "tweet_count": 19739
+        },
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

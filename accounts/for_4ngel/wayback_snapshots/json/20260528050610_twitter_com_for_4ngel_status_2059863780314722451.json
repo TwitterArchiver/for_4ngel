@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059673197466030115",
+    "created_at": "2026-05-28T05:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059863780314722451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908419799794814976",
+          "start": 0,
+          "username": "savemylife27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059863780314722451",
+    "in_reply_to_user_id": "1908419799794814976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059673197466030115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@savemylife27 如果你想重启的话那么你就是现世的ADHD杀死自己的共犯，但是他人痛苦我自身也不可衡量吧，都是个人自由意志吧，只是希望你多活一天看看第二天你的有没有让你幸福的朝阳出现，摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059673197466030115",
+        "created_at": "2026-05-28T05:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059863780314722451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908419799794814976",
+              "start": 0,
+              "username": "savemylife27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059863780314722451",
+        "in_reply_to_user_id": "1908419799794814976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059673197466030115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@savemylife27 如果你想重启的话那么你就是现世的ADHD杀死自己的共犯，但是他人痛苦我自身也不可衡量吧，都是个人自由意志吧，只是希望你多活一天看看第二天你的有没有让你幸福的朝阳出现，摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908419799794814976",
+        "conversation_id": "2059673197466030115",
+        "created_at": "2026-05-27T16:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059673197466030115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059673197466030115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我好难受我感觉这么多年我就是被adhd毁了 好想重启人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我，非常乐意解答希望你们都好好的Angel永远在这里，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 347,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 140
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T07:22:06.000Z",
+        "description": "如果叹气可以带走一切痛苦",
+        "id": "1908419799794814976",
+        "location": "Japan",
+        "name": "你壞也是我的錯嗎",
+        "pinned_tweet_id": "2032480238307807465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026895882197590016/9Pbuo7Bu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 27,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 418
+        },
+        "username": "savemylife27",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059825389590208554",
+    "created_at": "2026-05-29T04:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060212284778324344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "872911556840792065",
+          "start": 0,
+          "username": "Yayuyo_shirushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060212284778324344",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060211601786249235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yayuyo_shirushi 但是我们忽略了，我们努力不一定是\"我努力就是为了不变的和他一样惨\"这是一种长期压迫扭曲的教育观，而是\"我努力是为了追求我自己想要的幸福\"，每个人的承受能力不一样，经历也不一样，不同个体之间的痛苦是无法比较的，所以不用因为你的经历似乎表面上看起来没别人惨就自责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059825389590208554",
+        "created_at": "2026-05-29T04:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060212284778324344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "872911556840792065",
+              "start": 0,
+              "username": "Yayuyo_shirushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060212284778324344",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060211601786249235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yayuyo_shirushi 但是我们忽略了，我们努力不一定是\"我努力就是为了不变的和他一样惨\"这是一种长期压迫扭曲的教育观，而是\"我努力是为了追求我自己想要的幸福\"，每个人的承受能力不一样，经历也不一样，不同个体之间的痛苦是无法比较的，所以不用因为你的经历似乎表面上看起来没别人惨就自责"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059825389590208554",
+        "created_at": "2026-05-29T04:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060211601786249235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "872911556840792065",
+              "start": 0,
+              "username": "Yayuyo_shirushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060211601786249235",
+        "in_reply_to_user_id": "872911556840792065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059825389590208554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yayuyo_shirushi 为什么要这样责备自己呢，人类生来不是比惨的，不是更惨的人就胜利的，每个人出生都应该是力争\"谁更幸福的\"而不是你感觉你的惨没有别人惨，你的惨就不是惨了，东亚教育普遍都是比苦的\"比谁更惨的教育\"为了用痛苦驱动我们前进"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 367,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 189
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-08T20:21:47.000Z",
+        "description": "人生辛いね／双極性障害と睡眠障害／休職↔短期離職／フォローお気軽に／リプライあまり返せませんが読んでいます",
+        "id": "872911556840792065",
+        "location": "生き地獄",
+        "name": "やゆよ",
+        "pinned_tweet_id": "1942111181382312209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933112529997418497/-moObBj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16113,
+          "following_count": 424,
+          "like_count": 21589,
+          "listed_count": 88,
+          "media_count": 1123,
+          "tweet_count": 17643
+        },
+        "username": "Yayuyo_shirushi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061309129990476143",
+    "created_at": "2026-06-01T04:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061309129990476143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0b7cm/status/2…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/0b7cm/status/2061074324552118605",
+          "start": 131,
+          "url": "https://t.co/R4GFjb11sO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061309129990476143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061074324552118605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "偏回避策略的恐惧型依恋往往在后期会对伴侣这么做，也可能包括突然对你大发脾气做出一些很极端的推拉的事。但实际上当他开始对你这么做，是因为你已经走到测试的最后一步了，他要看看你是否真的能接受他的全部或者真的在乎他他才敢把自己和伤害自己的权利交给你，这是一种高级信任 https://t.co/R4GFjb11sO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061309129990476143",
+        "created_at": "2026-06-01T04:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061309129990476143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0b7cm/status/2…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/0b7cm/status/2061074324552118605",
+              "start": 131,
+              "url": "https://t.co/R4GFjb11sO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061309129990476143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061074324552118605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "偏回避策略的恐惧型依恋往往在后期会对伴侣这么做，也可能包括突然对你大发脾气做出一些很极端的推拉的事。但实际上当他开始对你这么做，是因为你已经走到测试的最后一步了，他要看看你是否真的能接受他的全部或者真的在乎他他才敢把自己和伤害自己的权利交给你，这是一种高级信任 https://t.co/R4GFjb11sO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2061074324552118605",
+        "created_at": "2026-05-31T13:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061074324552118605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061074324552118605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不要用消失、冷淡、试探，验证对方是否在乎你…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 417,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 383
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2060197582174040436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11213,
+          "following_count": 1309,
+          "like_count": 12053,
+          "listed_count": 22,
+          "media_count": 2488,
+          "tweet_count": 16518
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

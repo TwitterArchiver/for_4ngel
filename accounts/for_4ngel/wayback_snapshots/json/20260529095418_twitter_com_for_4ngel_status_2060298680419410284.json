@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060291167120752965",
+    "created_at": "2026-05-29T09:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060298680419410284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056010581342392320",
+          "start": 0,
+          "username": "Mercyvnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060298680419410284",
+    "in_reply_to_user_id": "2056010581342392320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060298077454664173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvnv 确实是，但是主要是相互作用的强度是完全未知的，欣快的触发机制更像一个混沌系统，哪怕是dxm微小的缪阿片受体的微弱亲和可能都要算进考量里面，安非他酮和美金刚的主观体验差距特别大的，更何况联用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060291167120752965",
+        "created_at": "2026-05-29T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060298680419410284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056010581342392320",
+              "start": 0,
+              "username": "Mercyvnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060298680419410284",
+        "in_reply_to_user_id": "2056010581342392320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060298077454664173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvnv 确实是，但是主要是相互作用的强度是完全未知的，欣快的触发机制更像一个混沌系统，哪怕是dxm微小的缪阿片受体的微弱亲和可能都要算进考量里面，安非他酮和美金刚的主观体验差距特别大的，更何况联用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056010581342392320",
+        "conversation_id": "2060291167120752965",
+        "created_at": "2026-05-29T09:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060298077454664173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060298077454664173",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060297437185794056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 我日常吃300mg安非他酮能不能代替一下下🤔也不用完全相似吧 主观体验不就是解离+血清素吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 379,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 205
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T13:55:45.000Z",
+        "description": "已老实，互fo私信\n\nmtx(f?)，💊🔪🩸",
+        "id": "2056010581342392320",
+        "name": "Mercy",
+        "pinned_tweet_id": "2056992126341378202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 176,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 233
+        },
+        "username": "Mercyvnv",
+        "verified": false
+      }
+    ]
+  }
+}

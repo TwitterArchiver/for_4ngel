@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061662717778571704",
+    "created_at": "2026-06-02T04:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061662717778571704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Apipleeeee/sta…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/Apipleeeee/status/2061571777952899115",
+          "start": 118,
+          "url": "https://t.co/dHykqXkkqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061662717778571704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061571777952899115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纠缠别人不是主动，反而是被动，因为这个时候就意味着你把自己可被拒绝的权利被伤害的权利交到了对方手上，对默许你纠缠，不是因为你的纠缠多有用，是因为你的纠缠已经让让自我贬值的在对方心中毫无价值了，这个时候对方已经不用花更多心思在你身上了。 https://t.co/dHykqXkkqD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061662717778571704",
+        "created_at": "2026-06-02T04:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061662717778571704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Apipleeeee/sta…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/Apipleeeee/status/2061571777952899115",
+              "start": 118,
+              "url": "https://t.co/dHykqXkkqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061662717778571704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061571777952899115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纠缠别人不是主动，反而是被动，因为这个时候就意味着你把自己可被拒绝的权利被伤害的权利交到了对方手上，对默许你纠缠，不是因为你的纠缠多有用，是因为你的纠缠已经让让自我贬值的在对方心中毫无价值了，这个时候对方已经不用花更多心思在你身上了。 https://t.co/dHykqXkkqD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2061571777952899115",
+        "created_at": "2026-06-01T22:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061571777952899115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061571777952899115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你去纠缠别人的时候，你就是主动的那一方。他如果还能让你纠缠，那他就是在默许，在纵容，纠缠完了自己很爽就好了，不用管他死活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 431,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 439
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12356,
+          "following_count": 2,
+          "like_count": 3797,
+          "listed_count": 35,
+          "media_count": 528,
+          "tweet_count": 1644
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

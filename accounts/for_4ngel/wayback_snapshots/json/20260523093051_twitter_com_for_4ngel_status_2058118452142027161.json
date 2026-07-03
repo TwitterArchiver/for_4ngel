@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Counseling & Psychotherapy",
+          "id": "920758761370746880",
+          "name": "Counseling and psychotherapy"
+        }
+      }
+    ],
+    "conversation_id": "2057958330602340459",
+    "created_at": "2026-05-23T09:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058118452142027161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021508015598481408",
+          "start": 0,
+          "username": "uniuninninuni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058118452142027161",
+    "in_reply_to_user_id": "2021508015598481408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057958330602340459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uniuninninuni 28歳未満は神経可塑性が高く、積極治療でBPD改善が見込めます。28歳超だと人格が定着し変化しにくいです。スタンフォード式経頭蓋磁気治療と心理カウンセリング併用で大幅に良くなります。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Counseling & Psychotherapy",
+              "id": "920758761370746880",
+              "name": "Counseling and psychotherapy"
+            }
+          }
+        ],
+        "conversation_id": "2057958330602340459",
+        "created_at": "2026-05-23T09:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058118452142027161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021508015598481408",
+              "start": 0,
+              "username": "uniuninninuni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058118452142027161",
+        "in_reply_to_user_id": "2021508015598481408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057958330602340459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uniuninninuni 28歳未満は神経可塑性が高く、積極治療でBPD改善が見込めます。28歳超だと人格が定着し変化しにくいです。スタンフォード式経頭蓋磁気治療と心理カウンセリング併用で大幅に良くなります。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021508015598481408",
+        "conversation_id": "2057958330602340459",
+        "created_at": "2026-05-22T22:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057958330602340459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057958330602340459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私の今の人生の目標は\n自傷をやめること、躁鬱治すこと\nBPDの情緒不安定な所マシにすること\nそしてイライラした時に人にも物にも、当たらず 癇癪起こさないこと 頓服とか飲んだり 他のことして気を紛らわせるように\nって言いつつそれができたら苦労しないんだよね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07  |♂ | 双相情感障碍  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我乐意解答~",
+        "id": "1809604484173295620",
+        "location": "中国",
+        "name": "Angel",
+        "pinned_tweet_id": "2058112521895374921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 290,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 75
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:54:11.000Z",
+        "description": "BPD 躁鬱 手帳2級",
+        "id": "2021508015598481408",
+        "location": "不健康",
+        "name": "こあち",
+        "pinned_tweet_id": "2055612882604413030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038832243368681472/E_t6F-LA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 46,
+          "like_count": 6977,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 898
+        },
+        "username": "uniuninninuni",
+        "verified": false
+      }
+    ]
+  }
+}

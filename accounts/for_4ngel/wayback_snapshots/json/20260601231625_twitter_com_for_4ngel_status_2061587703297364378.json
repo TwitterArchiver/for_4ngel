@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2061505284930183559",
+    "created_at": "2026-06-01T23:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061587703297364378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061587703297364378",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061505284930183559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 确实啊 但是挺残酷的其实 关系中平等付出很重要 过度付出讨好可能会自我贬值导致后期出现很大的问题吧 付出的不对等也会让对方有无形的压力尤其是对于回避型 如果是两个比较亲密的都是偏焦虑的恐惧型已经开始彼此依赖 或者是单纯高焦虑依恋 无限付出没啥问题因为对方也会不可避免的和你做一样的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061505284930183559",
+        "created_at": "2026-06-01T23:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061587703297364378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061587703297364378",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061505284930183559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 确实啊 但是挺残酷的其实 关系中平等付出很重要 过度付出讨好可能会自我贬值导致后期出现很大的问题吧 付出的不对等也会让对方有无形的压力尤其是对于回避型 如果是两个比较亲密的都是偏焦虑的恐惧型已经开始彼此依赖 或者是单纯高焦虑依恋 无限付出没啥问题因为对方也会不可避免的和你做一样的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2061505284930183559",
+        "created_at": "2026-06-01T17:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061505284930183559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061505284930183559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉现在看见的大部分的亲密关系都给我一种谁付出更多谁就输了的感觉\n但总感觉感情不该是博弈呀 \n如果要为了显得不在乎和弱势 而故意晚回消息的话 那也太累了吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 429,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 431
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/神秘备用舱@flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "flyfrog_222"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill    ",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2047987551819194768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 542,
+          "like_count": 13174,
+          "listed_count": 8,
+          "media_count": 1079,
+          "tweet_count": 14144
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2060799983532855625",
+    "created_at": "2026-05-31T01:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060896377266422230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1810940278468964352",
+          "start": 0,
+          "username": "stgggjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060896377266422230",
+    "in_reply_to_user_id": "1810940278468964352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060799983532855625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stgggjj 而且过度纵欲会引起抑郁加重吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2060799983532855625",
+        "created_at": "2026-05-31T01:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060896377266422230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810940278468964352",
+              "start": 0,
+              "username": "stgggjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060896377266422230",
+        "in_reply_to_user_id": "1810940278468964352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060799983532855625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stgggjj 而且过度纵欲会引起抑郁加重吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810940278468964352",
+        "conversation_id": "2060799983532855625",
+        "created_at": "2026-05-30T19:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060799983532855625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakunatoidda/s…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/nakunatoidda/status/2060373873724678255",
+              "start": 108,
+              "url": "https://t.co/YPvv13cfVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060799983532855625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060373873724678255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理解有误，性对抑郁的缓解是非常短期并且极不稳定的，而且抑郁导致性欲下降是更常见的，不过也有可能会导致性行为增加或变得强迫化\n\n不过很多抗抑郁药（尤其 SSRIs）也会直接影响性欲，会影响勃起/润滑、高潮难度和性快感 https://t.co/YPvv13cfVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 398,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 288
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "2057843541410480616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012508698938052608/krZPQ7qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 514,
+          "like_count": 9476,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 7159
+        },
+        "username": "stgggjj",
+        "verified": false
+      }
+    ]
+  }
+}
