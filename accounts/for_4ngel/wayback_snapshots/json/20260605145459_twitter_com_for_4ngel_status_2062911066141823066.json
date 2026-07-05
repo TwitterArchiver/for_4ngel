@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062911066141823066",
+    "created_at": "2026-06-05T14:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062911066141823066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiaoyanboluooo…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2062908262086004942",
+          "start": 12,
+          "url": "https://t.co/czK73l8skL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062911066141823066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062908262086004942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "屎蛆自己拉屎自己吃说是 https://t.co/czK73l8skL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062911066141823066",
+        "created_at": "2026-06-05T14:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062911066141823066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaoyanboluooo…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2062908262086004942",
+              "start": 12,
+              "url": "https://t.co/czK73l8skL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062911066141823066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062908262086004942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "屎蛆自己拉屎自己吃说是 https://t.co/czK73l8skL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "2062908262086004942",
+        "created_at": "2026-06-05T14:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062908262086004942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mihuanhuanhuan…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/mihuanhuanhuan/status/2062897238658158618",
+              "start": 19,
+              "url": "https://t.co/iZApfgrhEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062908262086004942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062897238658158618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唐也是神了\n一天之内居然能炒作两遍😸 https://t.co/iZApfgrhEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 491,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 556
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4411,
+          "following_count": 3691,
+          "like_count": 26344,
+          "listed_count": 11,
+          "media_count": 1377,
+          "tweet_count": 5577
+        },
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

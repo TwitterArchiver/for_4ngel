@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2063842284949708907",
+    "created_at": "2026-06-08T04:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063842284949708907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2063841878127112193",
+          "start": 85,
+          "url": "https://t.co/BIxcrZhQyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063842284949708907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063841878127112193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯确实是这样，大多数药物的滥用都会导致神经元死亡的问题，但是兴奋类和解离类应该是伤害最大最严重的吧，不过解离剂这个东西像艾司氯氨酮或者美金刚正常那样医用的话确实算是良药 https://t.co/BIxcrZhQyx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2063842284949708907",
+        "created_at": "2026-06-08T04:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063842284949708907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2063841878127112193",
+              "start": 85,
+              "url": "https://t.co/BIxcrZhQyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063842284949708907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063841878127112193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯确实是这样，大多数药物的滥用都会导致神经元死亡的问题，但是兴奋类和解离类应该是伤害最大最严重的吧，不过解离剂这个东西像艾司氯氨酮或者美金刚正常那样医用的话确实算是良药 https://t.co/BIxcrZhQyx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2063841878127112193",
+        "created_at": "2026-06-08T04:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063841878127112193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2063840770579447954",
+              "start": 142,
+              "url": "https://t.co/s87YtyZEIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063841878127112193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063840770579447954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为，长期大量地使用解离剂确实会带来不良的健康影响，这是可以通过总结他人的经验所得出的结论。\n\n而这个影响即便不体现在“奥尔尼病变”，也会体现在其他地方，所以不必钻牛角尖🥺\n\n不仅是解离剂，对于任何药物，这个规律都适用呢。所以，大家不要与药物形成不健康的关系哦。要适度用药，好嘛🥹 https://t.co/s87YtyZEIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 497,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 644
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4813,
+          "following_count": 1011,
+          "like_count": 24324,
+          "listed_count": 12,
+          "media_count": 547,
+          "tweet_count": 7859
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

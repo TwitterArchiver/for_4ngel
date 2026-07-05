@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063217266435694592",
+        "3_2063217266398007296",
+        "3_2063217358844678144"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063217544388092294",
+    "created_at": "2026-06-06T11:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063217544388092294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zfdme6ghuc",
+          "end": 114,
+          "expanded_url": "https://x.com/for_4ngel/status/2063217544388092294/photo/1",
+          "media_key": "3_2063217266435694592",
+          "start": 91,
+          "url": "https://t.co/Zfdme6ghuc"
+        },
+        {
+          "display_url": "pic.x.com/Zfdme6ghuc",
+          "end": 114,
+          "expanded_url": "https://x.com/for_4ngel/status/2063217544388092294/photo/1",
+          "media_key": "3_2063217266398007296",
+          "start": 91,
+          "url": "https://t.co/Zfdme6ghuc"
+        },
+        {
+          "display_url": "pic.x.com/Zfdme6ghuc",
+          "end": 114,
+          "expanded_url": "https://x.com/for_4ngel/status/2063217544388092294/photo/1",
+          "media_key": "3_2063217358844678144",
+          "start": 91,
+          "url": "https://t.co/Zfdme6ghuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063217544388092294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对数大小比较年年考年年错。ln只记得一个ln2。e的x次方只记得e约等于2.7。可能大家懒得搜所以就放这了。真底不等式比较对数大小，e的x次方泰勒2-3阶展开，lnx帕德逼近估值。 https://t.co/Zfdme6ghuc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 209,
+        "media_key": "3_2063217266435694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIFLCRaIAAuU_k.jpg",
+        "width": 720
+      },
+      {
+        "height": 592,
+        "media_key": "3_2063217266398007296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIFLCIbEAAgJXx.jpg",
+        "width": 701
+      },
+      {
+        "height": 214,
+        "media_key": "3_2063217358844678144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIFQahbUAA4PO3.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063217266435694592",
+            "3_2063217266398007296",
+            "3_2063217358844678144"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063217544388092294",
+        "created_at": "2026-06-06T11:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063217544388092294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zfdme6ghuc",
+              "end": 114,
+              "expanded_url": "https://x.com/for_4ngel/status/2063217544388092294/photo/1",
+              "media_key": "3_2063217266435694592",
+              "start": 91,
+              "url": "https://t.co/Zfdme6ghuc"
+            },
+            {
+              "display_url": "pic.x.com/Zfdme6ghuc",
+              "end": 114,
+              "expanded_url": "https://x.com/for_4ngel/status/2063217544388092294/photo/1",
+              "media_key": "3_2063217266398007296",
+              "start": 91,
+              "url": "https://t.co/Zfdme6ghuc"
+            },
+            {
+              "display_url": "pic.x.com/Zfdme6ghuc",
+              "end": 114,
+              "expanded_url": "https://x.com/for_4ngel/status/2063217544388092294/photo/1",
+              "media_key": "3_2063217358844678144",
+              "start": 91,
+              "url": "https://t.co/Zfdme6ghuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063217544388092294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对数大小比较年年考年年错。ln只记得一个ln2。e的x次方只记得e约等于2.7。可能大家懒得搜所以就放这了。真底不等式比较对数大小，e的x次方泰勒2-3阶展开，lnx帕德逼近估值。 https://t.co/Zfdme6ghuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 492,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 595
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

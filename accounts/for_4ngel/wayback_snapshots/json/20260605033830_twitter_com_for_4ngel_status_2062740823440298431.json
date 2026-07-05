@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062570727690346728",
+    "created_at": "2026-06-05T03:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062740823440298431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062740823440298431",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062570727690346728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 最悲哀的我觉得是，这件事每个帖子我基本都刷到了包括17发的帖子，17本身是冲动者而非绝对自杀意愿者，他本质上每次都向你们求救了多次但是你们的错误干预把他推向真自杀和不被理解的更加绝望的深渊，tyw把他骂的不敢自杀了本身是其已经对大多数人失望了当你们把他逼到那一步的时候已经没有干预的可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062570727690346728",
+        "created_at": "2026-06-05T03:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062740823440298431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062740823440298431",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062570727690346728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 最悲哀的我觉得是，这件事每个帖子我基本都刷到了包括17发的帖子，17本身是冲动者而非绝对自杀意愿者，他本质上每次都向你们求救了多次但是你们的错误干预把他推向真自杀和不被理解的更加绝望的深渊，tyw把他骂的不敢自杀了本身是其已经对大多数人失望了当你们把他逼到那一步的时候已经没有干预的可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "2062570727690346728",
+        "created_at": "2026-06-04T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062570727690346728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transyuwen/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/transyuwen/status/2062453803253989773",
+              "start": 144,
+              "url": "https://t.co/nJ7k2wImLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570727690346728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1821,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453803253989773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直觉得不应该强制送别人去进精卫\n特别是被信任的人送进去\n我觉得这和被家长强制送扭转是一回事\n只能让TA看起来好点，出来之后病情都会更严重\n但我只要换位思考一下\n如果我爱的人要自杀，我也会这么干\n我也会觉得这已经是最好的办法了，但这就像就在一堆垃圾里面选最香的一个\n我是不是太双标了😿 https://t.co/nJ7k2wImLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 484,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 538
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 3606,
+          "like_count": 26048,
+          "listed_count": 11,
+          "media_count": 1361,
+          "tweet_count": 5454
+        },
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

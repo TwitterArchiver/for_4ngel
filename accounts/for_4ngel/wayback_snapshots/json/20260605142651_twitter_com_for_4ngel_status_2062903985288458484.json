@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062873063826571720",
+    "created_at": "2026-06-05T14:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062903985288458484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576083963713503232",
+          "start": 0,
+          "username": "WhitesugarC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062903985288458484",
+    "in_reply_to_user_id": "1576083963713503232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062873063826571720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhitesugarC 讲真的之前刷到17的帖子本来想做自杀干预的，看评论里很多人都没做到点上，但是想想圈内人抱团取暖的事我也不好参与吧🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062873063826571720",
+        "created_at": "2026-06-05T14:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062903985288458484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576083963713503232",
+              "start": 0,
+              "username": "WhitesugarC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903985288458484",
+        "in_reply_to_user_id": "1576083963713503232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062873063826571720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhitesugarC 讲真的之前刷到17的帖子本来想做自杀干预的，看评论里很多人都没做到点上，但是想想圈内人抱团取暖的事我也不好参与吧🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576083963713503232",
+        "conversation_id": "2062873063826571720",
+        "created_at": "2026-06-05T12:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062873063826571720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062873063826571720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 317,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "近期的海月水母事件，我是坚定反对 tyw 的。与其谈论人是否有结束自己生命的权利，不如先想想：我们是否构建了一个让人有足够理由想要活下去的社会？是否能让遭受痛苦的人不感到被遗弃，有机会重获生命的希望？盲目的「生命权至上」观念，恐怕只是受到佛教/亚伯拉罕宗教的潜移默化影响罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 491,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 552
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "@Whatasiger 二阶段｜友男跨顺｜翻车概率为 0!｜「我们生来是为了燃烧的。我们是烟花。」｜🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Whatasiger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/XdFzuqLNUB"
+              }
+            ]
+          }
+        },
+        "id": "1576083963713503232",
+        "name": "Whatasigers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 26,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/XdFzuqLNUB",
+        "username": "WhitesugarC",
+        "verified": false
+      }
+    ]
+  }
+}

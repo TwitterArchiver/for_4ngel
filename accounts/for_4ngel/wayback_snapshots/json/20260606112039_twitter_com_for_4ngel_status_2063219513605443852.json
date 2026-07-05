@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063219513605443852",
+    "created_at": "2026-06-06T11:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063219513605443852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TransYuwen/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/TransYuwen/status/2063168824258785721",
+          "start": 15,
+          "url": "https://t.co/98jPv0JpGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063219513605443852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063168824258785721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜你朋友成功逃离原生关系😂 https://t.co/98jPv0JpGC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_2063168810753130496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHZGiybAAAM09q.jpg",
+        "width": 1151
+      },
+      {
+        "height": 329,
+        "media_key": "3_2063168818118262784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHZG-OaAAARYh0.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063219513605443852",
+        "created_at": "2026-06-06T11:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063219513605443852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2063168824258785721",
+              "start": 15,
+              "url": "https://t.co/98jPv0JpGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063219513605443852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063168824258785721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜你朋友成功逃离原生关系😂 https://t.co/98jPv0JpGC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063168810753130496",
+            "3_2063168818118262784"
+          ]
+        },
+        "author_id": "2054877291633909760",
+        "conversation_id": "2063168824258785721",
+        "created_at": "2026-06-06T07:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063168824258785721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrDFvGYiKq",
+              "end": 51,
+              "expanded_url": "https://x.com/TransYuwen/status/2063168824258785721/photo/1",
+              "media_key": "3_2063168810753130496",
+              "start": 28,
+              "url": "https://t.co/PrDFvGYiKq"
+            },
+            {
+              "display_url": "pic.x.com/PrDFvGYiKq",
+              "end": 51,
+              "expanded_url": "https://x.com/TransYuwen/status/2063168824258785721/photo/1",
+              "media_key": "3_2063168818118262784",
+              "start": 28,
+              "url": "https://t.co/PrDFvGYiKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063168824258785721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个故事告诉我们，不作死就不会死，作死了是真的会死的！ https://t.co/PrDFvGYiKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 492,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 596
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | Dom | 70公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |不肉偿 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nomtf.com",
+                "end": 23,
+                "expanded_url": "http://nomtf.com",
+                "start": 0,
+                "url": "https://t.co/tw4eduhItL"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063167023686005101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 53,
+          "like_count": 361,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/tw4eduhItL",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

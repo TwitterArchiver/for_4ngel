@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063188941256462435",
+    "created_at": "2026-06-06T09:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063188941256462435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Koysov2022/sta…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/Koysov2022/status/2063187002774991235",
+          "start": 88,
+          "url": "https://t.co/llYoHDtXIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063188941256462435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063187002774991235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "情理之中，跨圈很多人之间的创伤性联接本身就是在绝境漂流中抓浮木，17抓住了这个浮木但是没发现这根烂木头上全是荆棘。相比于溺水淹死，这根木头怎么样不是他们在乎的事。能漂起来就行 https://t.co/llYoHDtXIr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063188941256462435",
+        "created_at": "2026-06-06T09:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063188941256462435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Koysov2022/sta…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/Koysov2022/status/2063187002774991235",
+              "start": 88,
+              "url": "https://t.co/llYoHDtXIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063188941256462435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063187002774991235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "情理之中，跨圈很多人之间的创伤性联接本身就是在绝境漂流中抓浮木，17抓住了这个浮木但是没发现这根烂木头上全是荆棘。相比于溺水淹死，这根木头怎么样不是他们在乎的事。能漂起来就行 https://t.co/llYoHDtXIr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055986818932424704",
+        "conversation_id": "2063186667289411916",
+        "created_at": "2026-06-06T09:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063187002774991235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063187002774991235",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063186667289411916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 一直挺好奇此人风评如此恶劣怎么还是有人找她玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 491,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 572
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:23:56.000Z",
+        "description": "主机:@jkiesoft\n初代Kia转生版，如果主机没长时间更新说明我在用这个号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jkiesoft"
+              }
+            ]
+          }
+        },
+        "id": "2055986818932424704",
+        "location": "Astoria",
+        "name": "Kia2.0",
+        "pinned_tweet_id": "2061805265725665572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062404368721379329/E_7psQzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 69,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 114
+        },
+        "username": "Koysov2022",
+        "verified": false
+      }
+    ]
+  }
+}

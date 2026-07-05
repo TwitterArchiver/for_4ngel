@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062867075648061598",
+    "created_at": "2026-06-05T12:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062867075648061598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RogerDisboard/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/RogerDisboard/status/2062842392752111713",
+          "start": 23,
+          "url": "https://t.co/iW2tvbFfby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062867075648061598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062842392752111713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是，tyw这条蛆恰黑流和人血馒头恰爽了😂 https://t.co/iW2tvbFfby"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062867075648061598",
+        "created_at": "2026-06-05T12:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062867075648061598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RogerDisboard/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/RogerDisboard/status/2062842392752111713",
+              "start": 23,
+              "url": "https://t.co/iW2tvbFfby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062867075648061598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062842392752111713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是，tyw这条蛆恰黑流和人血馒头恰爽了😂 https://t.co/iW2tvbFfby"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062840261617848534",
+        "created_at": "2026-06-05T10:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062842392752111713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062842392752111713",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062840261617848534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因而我不会改变我的看法\ntyw仍然是一个自私自利的SB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 489,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 547
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将会继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 1038,
+          "like_count": 7897,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1911
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

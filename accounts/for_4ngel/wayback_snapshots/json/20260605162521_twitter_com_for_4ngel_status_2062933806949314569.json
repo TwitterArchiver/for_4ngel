@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062933793930158080"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062933806949314569",
+    "created_at": "2026-06-05T16:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062933806949314569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ar12S0wwnh",
+          "end": 89,
+          "expanded_url": "https://x.com/for_4ngel/status/2062933806949314569/photo/1",
+          "media_key": "3_2062933793930158080",
+          "start": 66,
+          "url": "https://t.co/Ar12S0wwnh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062933806949314569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两天一直在回复解构帖呢，来点硬核点的吧，angel现在在参与pdw的神经科学与药理学的内容编写，老一辈还再坚持传统的查文献手搓( https://t.co/Ar12S0wwnh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062933793930158080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEDWw5bIAAks1x.jpg",
+        "width": 193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062933793930158080"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062933806949314569",
+        "created_at": "2026-06-05T16:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062933806949314569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ar12S0wwnh",
+              "end": 89,
+              "expanded_url": "https://x.com/for_4ngel/status/2062933806949314569/photo/1",
+              "media_key": "3_2062933793930158080",
+              "start": 66,
+              "url": "https://t.co/Ar12S0wwnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062933806949314569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天一直在回复解构帖呢，来点硬核点的吧，angel现在在参与pdw的神经科学与药理学的内容编写，老一辈还再坚持传统的查文献手搓( https://t.co/Ar12S0wwnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 491,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 560
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

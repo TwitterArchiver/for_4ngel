@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063938070790180987",
+    "created_at": "2026-06-08T10:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063938070790180987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wgddking/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wgddking/status/2063851103289229445",
+          "start": 10,
+          "url": "https://t.co/bOCfxgWfwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063938070790180987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063851103289229445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看得我眼睛尿尿了😢 https://t.co/bOCfxgWfwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063851101074698240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRFpETbMAAaAtF.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063938070790180987",
+        "created_at": "2026-06-08T10:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063938070790180987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wgddking/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wgddking/status/2063851103289229445",
+              "start": 10,
+              "url": "https://t.co/bOCfxgWfwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063938070790180987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063851103289229445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我眼睛尿尿了😢 https://t.co/bOCfxgWfwD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063851101074698240"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063851103289229445",
+        "created_at": "2026-06-08T05:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063851103289229445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0DaScYFQo",
+              "end": 36,
+              "expanded_url": "https://x.com/wgddking/status/2063851103289229445/photo/1",
+              "media_key": "3_2063851101074698240",
+              "start": 13,
+              "url": "https://t.co/e0DaScYFQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063851103289229445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 82080,
+          "like_count": 344,
+          "quote_count": 1,
+          "reply_count": 143,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "终于看到正常的情侣关系了 https://t.co/e0DaScYFQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 496,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 648
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n（求警哥别抓我😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（温指导）",
+        "pinned_tweet_id": "2061023590150254815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 87,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

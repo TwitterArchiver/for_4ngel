@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2070780545966256247",
+    "created_at": "2026-06-27T08:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070780545966256247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ElonloveDEA/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ElonloveDEA/status/2070333873255583820",
+          "start": 30,
+          "url": "https://t.co/lftIuC2fK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070780545966256247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070333873255583820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "口服药里面有杂质辅料什么的，堵住脑子上某个毛细血管不炸了吗 https://t.co/lftIuC2fK2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2070780545966256247",
+        "created_at": "2026-06-27T08:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070780545966256247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ElonloveDEA/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ElonloveDEA/status/2070333873255583820",
+              "start": 30,
+              "url": "https://t.co/lftIuC2fK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070780545966256247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070333873255583820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "口服药里面有杂质辅料什么的，堵住脑子上某个毛细血管不炸了吗 https://t.co/lftIuC2fK2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061831120292020225",
+        "conversation_id": "2070333873255583820",
+        "created_at": "2026-06-26T02:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070333873255583820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070333873255583820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3790,
+          "like_count": 80,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些毒虫真的太不要命了 什么东西都敢妄自己身体里打 安非他酮药片都能碾碎注射 真的不考虑一下风险收益比吗 我连肽类都不敢随便打 因为担心纯度和内毒素之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 489,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:24:54.000Z",
+        "description": "已转生，互关寻回中",
+        "id": "2061831120292020225",
+        "location": "Edmonton, Alberta",
+        "name": "VVV3.0",
+        "pinned_tweet_id": "2061832974522581286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061832445734080512/mf3oJak7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 151,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "ElonloveDEA",
+        "verified": false
+      }
+    ]
+  }
+}

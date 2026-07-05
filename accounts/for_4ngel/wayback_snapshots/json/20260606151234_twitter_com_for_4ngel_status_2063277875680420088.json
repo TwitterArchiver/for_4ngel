@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063276316733198526",
+    "created_at": "2026-06-06T15:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063277875680420088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063277875680420088",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063276316733198526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 个体差异。。?或者是加吧耐受了。。?我之前发的国外论坛里的酒精联用美金刚的也很多，但是我感觉美金刚这种药个体差异本身体验差异就很大吧。你加吧有耐受吗?我想说一点，普瑞巴林和加巴喷丁是交叉耐受的，这两种药物其一耐受了另一种也会耐受，你是哪种情况("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063276316733198526",
+        "created_at": "2026-06-06T15:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063277875680420088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063277875680420088",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063276316733198526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 个体差异。。?或者是加吧耐受了。。?我之前发的国外论坛里的酒精联用美金刚的也很多，但是我感觉美金刚这种药个体差异本身体验差异就很大吧。你加吧有耐受吗?我想说一点，普瑞巴林和加巴喷丁是交叉耐受的，这两种药物其一耐受了另一种也会耐受，你是哪种情况("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063276316733198526",
+        "created_at": "2026-06-06T15:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063276316733198526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063276316733198526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "23:03 完了我怎么感觉没那么爽呢。。美金刚➕加吧（分批）联用并没有美金刚➕佐匹爽？感觉药效巅峰的时候是几个小时前喝完酒的时候，这是怎么回事呢。现在就是普通的有点晕晕的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 495,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 610
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 185,
+          "like_count": 7268,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 990
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

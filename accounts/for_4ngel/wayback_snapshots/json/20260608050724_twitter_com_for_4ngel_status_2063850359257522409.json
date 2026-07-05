@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063850359257522409",
+    "created_at": "2026-06-08T05:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063850359257522409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MutsumiKawa1i/…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/MutsumiKawa1i/status/2063849213918879776",
+          "start": 118,
+          "url": "https://t.co/nFbUlhzOfY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063850359257522409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063849213918879776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额，滥用导致的一些损伤记忆和认知下降是可逆的，如果真有神人和案例里面的滥用程度一样的话，这个病变是不可逆的而且是损伤特别严重。不过长期滥用可能看不到这么明显的病变但是也是不可逆损伤，偶尔娱乐到不会有严重的不可逆损伤。主要是探讨这个问题 https://t.co/nFbUlhzOfY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063850359257522409",
+        "created_at": "2026-06-08T05:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063850359257522409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MutsumiKawa1i/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/MutsumiKawa1i/status/2063849213918879776",
+              "start": 118,
+              "url": "https://t.co/nFbUlhzOfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063850359257522409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063849213918879776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额，滥用导致的一些损伤记忆和认知下降是可逆的，如果真有神人和案例里面的滥用程度一样的话，这个病变是不可逆的而且是损伤特别严重。不过长期滥用可能看不到这么明显的病变但是也是不可逆损伤，偶尔娱乐到不会有严重的不可逆损伤。主要是探讨这个问题 https://t.co/nFbUlhzOfY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039295991296192512",
+        "conversation_id": "2063831580972618175",
+        "created_at": "2026-06-08T05:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063849213918879776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 21,
+              "id": "1809604484173295620",
+              "start": 11,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063849213918879776",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063840316516450455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @for_4ngel 所以这奥尔尼损伤到底是什么？造成的负面作用有哪些？本来解离剂就损伤记忆力和膀胱，od的人又不是不知道，还会在乎这不知道到底是什么东西的奥尔尼病变？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 497,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 645
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T10:57:57.000Z",
+        "description": "小睦的3代目转生号，前世：@MutsumiXiaomu     是位边od边支黑的小可爱喵~    这一生也要坚持不懈地爱你们哦ヾ(^▽^*)))     亲爱的od导师：@tanka_TWT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "MutsumiXiaomu"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tanka_TWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/vcFGP6Sdi8"
+              }
+            ]
+          }
+        },
+        "id": "2039295991296192512",
+        "location": "为这个世界而祷哀吧",
+        "name": "MutsumiKawa1i 🇯🇵",
+        "pinned_tweet_id": "2049382401219154122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303241511604225/Nn4jEtqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 427,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/vcFGP6Sdi8",
+        "username": "MutsumiKawa1i",
+        "verified": false
+      }
+    ]
+  }
+}

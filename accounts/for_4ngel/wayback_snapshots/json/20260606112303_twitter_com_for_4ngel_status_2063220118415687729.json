@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062979424900014207",
+    "created_at": "2026-06-06T11:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063220118415687729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952345008478232576",
+          "start": 0,
+          "username": "Yu_071127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063220118415687729",
+    "in_reply_to_user_id": "1952345008478232576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062979424900014207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_071127 一起歌完手手吃完药药聊完原生家庭了现在我们可以干点别的了吗😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062979424900014207",
+        "created_at": "2026-06-06T11:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063220118415687729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952345008478232576",
+              "start": 0,
+              "username": "Yu_071127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063220118415687729",
+        "in_reply_to_user_id": "1952345008478232576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062979424900014207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_071127 一起歌完手手吃完药药聊完原生家庭了现在我们可以干点别的了吗😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952345008478232576",
+        "conversation_id": "2062979424900014207",
+        "created_at": "2026-06-05T19:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062979424900014207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062979424900014207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生物爹和生物妈离婚 生物爹跑去养小三的女儿(和他都没血缘关系) 没考大学所以马上变脸说我没用只会拿钱(其实只有一周100)  跟着生物妈 自残被说不想活别拖累她 自己再因为性格有点地雷不被人喜欢。。到底谁在说喜欢地雷啊怎么只有我相信了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 492,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 597
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T12:25:06.000Z",
+        "description": "季屿/shima 随意称呼就好\n07‖地雷‖overdose‖自残‖病み垢‖メンヘラ‖不安です",
+        "id": "1952345008478232576",
+        "location": "在你的身后哦",
+        "name": "我想成為你的眼淚",
+        "pinned_tweet_id": "2063001349147771317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060868521232662528/AlWnDSf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 158,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 398
+        },
+        "username": "Yu_071127",
+        "verified": false
+      }
+    ]
+  }
+}

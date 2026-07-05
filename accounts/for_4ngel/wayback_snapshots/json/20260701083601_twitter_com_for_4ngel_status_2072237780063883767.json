@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068570028849704960",
+        "3_2068570028451233792",
+        "3_2068570028925222912",
+        "3_2068570159850418176"
+      ],
+      "media_source_tweet_id": [
+        "2068570468312039765",
+        "2068570468312039765",
+        "2068570468312039765",
+        "2068570468312039765"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072237780063883767",
+    "created_at": "2026-07-01T08:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072237780063883767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "162974851",
+          "start": 3,
+          "username": "Paramjitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oaaalGPxBt",
+          "end": 95,
+          "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+          "media_key": "3_2068570028849704960",
+          "start": 72,
+          "url": "https://t.co/oaaalGPxBt"
+        },
+        {
+          "display_url": "pic.x.com/oaaalGPxBt",
+          "end": 95,
+          "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+          "media_key": "3_2068570028451233792",
+          "start": 72,
+          "url": "https://t.co/oaaalGPxBt"
+        },
+        {
+          "display_url": "pic.x.com/oaaalGPxBt",
+          "end": 95,
+          "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+          "media_key": "3_2068570028925222912",
+          "start": 72,
+          "url": "https://t.co/oaaalGPxBt"
+        },
+        {
+          "display_url": "pic.x.com/oaaalGPxBt",
+          "end": 95,
+          "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+          "media_key": "3_2068570159850418176",
+          "start": 72,
+          "url": "https://t.co/oaaalGPxBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072237780063883767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068570468312039765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paramjitt: hello米娜桑这里16.雨木木！\n寻回互关求转！（跪）\n期待和大家交朋友喵🥺🥺🥺🥵🥳🤩🤤\n阿巴阿巴哦嘞嘞哦啦啦 https://t.co/oaaalGPxBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2068570028849704960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUJe0KbMAArCRD.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068570028451233792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUJeyrbAAAytMo.jpg",
+        "width": 946
+      },
+      {
+        "height": 1348,
+        "media_key": "3_2068570028925222912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUJe0cbgAAyrgV.jpg",
+        "width": 804
+      },
+      {
+        "height": 607,
+        "media_key": "3_2068570159850418176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUJmcLbcAAbSN5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068570028849704960",
+            "3_2068570028451233792",
+            "3_2068570028925222912",
+            "3_2068570159850418176"
+          ],
+          "media_source_tweet_id": [
+            "2068570468312039765",
+            "2068570468312039765",
+            "2068570468312039765",
+            "2068570468312039765"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072237780063883767",
+        "created_at": "2026-07-01T08:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072237780063883767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "162974851",
+              "start": 3,
+              "username": "Paramjitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 95,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570028849704960",
+              "start": 72,
+              "url": "https://t.co/oaaalGPxBt"
+            },
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 95,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570028451233792",
+              "start": 72,
+              "url": "https://t.co/oaaalGPxBt"
+            },
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 95,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570028925222912",
+              "start": 72,
+              "url": "https://t.co/oaaalGPxBt"
+            },
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 95,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570159850418176",
+              "start": 72,
+              "url": "https://t.co/oaaalGPxBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072237780063883767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068570468312039765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paramjitt: hello米娜桑这里16.雨木木！\n寻回互关求转！（跪）\n期待和大家交朋友喵🥺🥺🥺🥵🥳🤩🤤\n阿巴阿巴哦嘞嘞哦啦啦 https://t.co/oaaalGPxBt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068570028849704960",
+            "3_2068570028451233792",
+            "3_2068570028925222912",
+            "3_2068570159850418176"
+          ]
+        },
+        "author_id": "162974851",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068570468312039765",
+        "created_at": "2026-06-21T05:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068570468312039765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 80,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570028849704960",
+              "start": 57,
+              "url": "https://t.co/oaaalGPxBt"
+            },
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 80,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570028451233792",
+              "start": 57,
+              "url": "https://t.co/oaaalGPxBt"
+            },
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 80,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570028925222912",
+              "start": 57,
+              "url": "https://t.co/oaaalGPxBt"
+            },
+            {
+              "display_url": "pic.x.com/oaaalGPxBt",
+              "end": 80,
+              "expanded_url": "https://x.com/Paramjitt/status/2068570468312039765/photo/1",
+              "media_key": "3_2068570159850418176",
+              "start": 57,
+              "url": "https://t.co/oaaalGPxBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068570468312039765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12753,
+          "like_count": 46,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "hello米娜桑这里16.雨木木！\n寻回互关求转！（跪）\n期待和大家交朋友喵🥺🥺🥺🥵🥳🤩🤤\n阿巴阿巴哦嘞嘞哦啦啦 https://t.co/oaaalGPxBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 488,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n木木雨（那个不可提及的数字00000）\n版本号：路易十六\n末影人\n12×09×17\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "AminoXx_killer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖林木木（16.0寻回。）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 248,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

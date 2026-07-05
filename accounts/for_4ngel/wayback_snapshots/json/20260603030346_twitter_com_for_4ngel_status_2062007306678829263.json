@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2062007306678829263",
+    "created_at": "2026-06-03T03:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062007306678829263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/for_4ngel/stat…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/for_4ngel/status/2062005921933660283",
+          "start": 109,
+          "url": "https://t.co/0Fijjmq9oT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062007306678829263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062005921933660283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过需要强调的是，任何抑制剂之间的联用都存在呼吸抑制风险，但是这个呼吸抑制风险的个体差异是极大的，如果你本身对酒精就存在耐受可以试试，或者GABA能的耐受(长期滥用GABA能药物)已经达到一定程度，也没什么太大的问题 https://t.co/0Fijjmq9oT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2062007306678829263",
+        "created_at": "2026-06-03T03:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062007306678829263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2062005921933660283",
+              "start": 109,
+              "url": "https://t.co/0Fijjmq9oT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062007306678829263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062005921933660283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过需要强调的是，任何抑制剂之间的联用都存在呼吸抑制风险，但是这个呼吸抑制风险的个体差异是极大的，如果你本身对酒精就存在耐受可以试试，或者GABA能的耐受(长期滥用GABA能药物)已经达到一定程度，也没什么太大的问题 https://t.co/0Fijjmq9oT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2062005921933660283",
+        "created_at": "2026-06-03T02:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062005921933660283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062005921933660283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚40mg-60mg的美金刚配合血液酒精浓度0.1%ˉ0.12%在1-2瓶500ml5度啤酒差不多Erowid的大多数体验报告里给出的是可加强酒精的主观体验 比如去焦虑和酒精的解离 并且该剂量的美金刚在Reddit滥用论坛上有很多体验者尝试联用加巴喷丁可以带来更干净的解离体验 对冲美金刚解离的一些负面效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 456,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 493
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

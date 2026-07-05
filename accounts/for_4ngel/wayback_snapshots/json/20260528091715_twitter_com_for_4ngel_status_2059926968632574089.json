@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2059916277020254705",
+    "created_at": "2026-05-28T09:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059926968632574089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057552254463291393",
+          "start": 0,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059926968632574089",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059926387822137351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6De_dian 安非他酮的相关联用谨慎为好吧，而且个体差异两极分化，有的人欣快很强有的人除了鼻子难受啥感觉没有，补充内源多巴胺去甲肾上腺素血清素水平可以吃维生素B12或者酪氨酸(奶酪制品)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2059916277020254705",
+        "created_at": "2026-05-28T09:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059926968632574089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059926968632574089",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059926387822137351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 安非他酮的相关联用谨慎为好吧，而且个体差异两极分化，有的人欣快很强有的人除了鼻子难受啥感觉没有，补充内源多巴胺去甲肾上腺素血清素水平可以吃维生素B12或者酪氨酸(奶酪制品)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2059916277020254705",
+        "created_at": "2026-05-28T09:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059926387822137351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059926387822137351",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059926008153645498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 😭😭可恶啊，早知道前几天应该不o那么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "天堂",
+        "name": "Angel",
+        "pinned_tweet_id": "2059007335809589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 353,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 148
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 116,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 112
+        },
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

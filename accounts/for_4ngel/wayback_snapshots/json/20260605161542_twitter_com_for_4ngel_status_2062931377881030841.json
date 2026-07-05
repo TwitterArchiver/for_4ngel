@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2062779301947175009",
+    "created_at": "2026-06-05T16:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062931377881030841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1601549039287566336",
+          "start": 0,
+          "username": "mmmammm_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062931377881030841",
+    "in_reply_to_user_id": "1601549039287566336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062930979996492044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmammm_a 你是个很善良的人哦，有问题随时可以dm我，乐意解答😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062779301947175009",
+        "created_at": "2026-06-05T16:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062931377881030841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601549039287566336",
+              "start": 0,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062931377881030841",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062930979996492044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmammm_a 你是个很善良的人哦，有问题随时可以dm我，乐意解答😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601549039287566336",
+        "conversation_id": "2062779301947175009",
+        "created_at": "2026-06-05T16:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062930979996492044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062930979996492044",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062929776185368839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 明白啦，谢谢！我之后就去看一下这些关于沟通的内容，感觉是我非常需要的了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 491,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 560
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Queer-feminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2057217556277010698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718974847135760384/lV4ZzeQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 222,
+          "like_count": 8320,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1945
+        },
+        "username": "mmmammm_a",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063944714974613741",
+    "created_at": "2026-06-08T11:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063944714974613741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/for_4ngel/stat…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/for_4ngel/status/2063828869111840960",
+          "start": 90,
+          "url": "https://t.co/Uk81fLhvt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063944714974613741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063828869111840960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里我说个点吧怕有些人误解，我说mmt代替，亚基活性上升，不是mmt导致亚基活性上升，而是你还想要滥用就用mmt代替因为作用的亚基不一样，dxo的结合的那个亚基活性水平会自己回升 https://t.co/Uk81fLhvt1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2063828830260019200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQxYvDbwAAJmpP.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063944714974613741",
+        "created_at": "2026-06-08T11:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063944714974613741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2063828869111840960",
+              "start": 90,
+              "url": "https://t.co/Uk81fLhvt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063944714974613741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063828869111840960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里我说个点吧怕有些人误解，我说mmt代替，亚基活性上升，不是mmt导致亚基活性上升，而是你还想要滥用就用mmt代替因为作用的亚基不一样，dxo的结合的那个亚基活性水平会自己回升 https://t.co/Uk81fLhvt1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063828830260019200"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063828869111840960",
+        "created_at": "2026-06-08T03:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063828869111840960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N7qZfCPoz",
+              "end": 36,
+              "expanded_url": "https://x.com/for_4ngel/status/2063828869111840960/photo/1",
+              "media_key": "3_2063828830260019200",
+              "start": 13,
+              "url": "https://t.co/1N7qZfCPoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063828869111840960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 576,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于解离剂耐受的可以看看 https://t.co/1N7qZfCPoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 496,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 650
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2064034155655213325",
+    "created_at": "2026-06-08T23:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064122836768436660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064122836768436660",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064096341345902649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko 你咋了！😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2064034155655213325",
+        "created_at": "2026-06-08T23:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064122836768436660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064122836768436660",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064096341345902649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko 你咋了！😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2064034155655213325",
+        "created_at": "2026-06-08T21:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064096341345902649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064096341345902649",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064034155655213325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 有没有更好的方法🥺🤲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 497,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 658
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "And nobody, in all of Oz, no wizard that there is or was, is ever gonna bring me down.",
+        "id": "2014216293705187328",
+        "name": "Mandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047952507742416896/Ru54lhoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 108,
+          "like_count": 4083,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 537
+        },
+        "username": "Mandykwko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063748950860103680"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063749188962443735",
+    "created_at": "2026-06-07T22:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T23:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063749188962443735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PnpxnSzZXl",
+          "end": 29,
+          "expanded_url": "https://x.com/for_4ngel/status/2063749188962443735/video/1",
+          "media_key": "13_2063748950860103680",
+          "start": 6,
+          "url": "https://t.co/PnpxnSzZXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063749188962443735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前做的😁 https://t.co/PnpxnSzZXl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23800,
+        "height": 1280,
+        "media_key": "13_2063748950860103680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063748950860103680/img/FZ_1qo4uxyJz62TG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063748950860103680/vid/avc1/320x568/otlIvckReSL9KFmR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063748950860103680/vid/avc1/480x852/MJfAPOBh89B-mviR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063748950860103680/vid/avc1/720x1280/IxnzeNRbNsze0Hv1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063748950860103680/pl/TlkIMaxpC70kq4qO.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063748950860103680"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063749188962443735",
+        "created_at": "2026-06-07T22:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063749188962443735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnpxnSzZXl",
+              "end": 29,
+              "expanded_url": "https://x.com/for_4ngel/status/2063749188962443735/video/1",
+              "media_key": "13_2063748950860103680",
+              "start": 6,
+              "url": "https://t.co/PnpxnSzZXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063749188962443735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前做的😁 https://t.co/PnpxnSzZXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 497,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 635
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

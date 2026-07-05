@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063204823739338752"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063205005520519259",
+    "created_at": "2026-06-06T10:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063205005520519259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nqEPp9F9ki",
+          "end": 71,
+          "expanded_url": "https://x.com/for_4ngel/status/2063205005520519259/photo/1",
+          "media_key": "3_2063204823739338752",
+          "start": 48,
+          "url": "https://t.co/nqEPp9F9ki"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2062768321829666837",
+          "start": 72,
+          "url": "https://t.co/O10YS7xGgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063205005520519259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062768321829666837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不说所有人，换作你自己应该都讨厌这种爹味吧要我说不只是自杀干预，这种沟通理念实际上是通用的。 https://t.co/nqEPp9F9ki https://t.co/O10YS7xGgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2063204823739338752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH52xnbEAAkkbR.jpg",
+        "width": 720
+      },
+      {
+        "height": 1858,
+        "media_key": "3_2062768318264561664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBs20AW0AAc34f.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1563,
+        "media_key": "3_2062768318264537089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBs20AWcAEPLwB.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1112,
+        "media_key": "3_2062768318268796928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBs20BXcAAV35V.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062768318268743680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBs20BWoAAyTzT.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063204823739338752"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063205005520519259",
+        "created_at": "2026-06-06T10:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063205005520519259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqEPp9F9ki",
+              "end": 71,
+              "expanded_url": "https://x.com/for_4ngel/status/2063205005520519259/photo/1",
+              "media_key": "3_2063204823739338752",
+              "start": 48,
+              "url": "https://t.co/nqEPp9F9ki"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2062768321829666837",
+              "start": 72,
+              "url": "https://t.co/O10YS7xGgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063205005520519259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062768321829666837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不说所有人，换作你自己应该都讨厌这种爹味吧要我说不只是自杀干预，这种沟通理念实际上是通用的。 https://t.co/nqEPp9F9ki https://t.co/O10YS7xGgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062768318264561664",
+            "3_2062768318264537089",
+            "3_2062768318268796928",
+            "3_2062768318268743680"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062768321829666837",
+        "created_at": "2026-06-05T05:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062768321829666837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GJocAZAEI",
+              "end": 103,
+              "expanded_url": "https://x.com/amber_digit2/status/2062768321829666837/photo/1",
+              "media_key": "3_2062768318264561664",
+              "start": 80,
+              "url": "https://t.co/7GJocAZAEI"
+            },
+            {
+              "display_url": "pic.x.com/7GJocAZAEI",
+              "end": 103,
+              "expanded_url": "https://x.com/amber_digit2/status/2062768321829666837/photo/1",
+              "media_key": "3_2062768318264537089",
+              "start": 80,
+              "url": "https://t.co/7GJocAZAEI"
+            },
+            {
+              "display_url": "pic.x.com/7GJocAZAEI",
+              "end": 103,
+              "expanded_url": "https://x.com/amber_digit2/status/2062768321829666837/photo/1",
+              "media_key": "3_2062768318268796928",
+              "start": 80,
+              "url": "https://t.co/7GJocAZAEI"
+            },
+            {
+              "display_url": "pic.x.com/7GJocAZAEI",
+              "end": 103,
+              "expanded_url": "https://x.com/amber_digit2/status/2062768321829666837/photo/1",
+              "media_key": "3_2062768318268743680",
+              "start": 80,
+              "url": "https://t.co/7GJocAZAEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062768321829666837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15175,
+          "like_count": 49,
+          "quote_count": 13,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "我确实是一条很肥的蛆；我做了我一直以来都会做的事情。我确实没有教好她，该骂的时候也过于嘴下留情，我知道我应当承担相应的批评；但即便再来一次，我也会做一样的事情 https://t.co/7GJocAZAEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 492,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 584
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2898,
+          "following_count": 507,
+          "like_count": 1239,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

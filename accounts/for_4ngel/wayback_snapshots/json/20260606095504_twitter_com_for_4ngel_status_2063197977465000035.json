@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2063158900560634008",
+    "created_at": "2026-06-06T09:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063197977465000035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746818545630195713",
+          "start": 0,
+          "username": "Anxious_K1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063197977465000035",
+    "in_reply_to_user_id": "1746818545630195713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063158900560634008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anxious_K1n 你很幸运呢，能遇到这么在乎你爱你包容你的人😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2063158900560634008",
+        "created_at": "2026-06-06T09:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063197977465000035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746818545630195713",
+              "start": 0,
+              "username": "Anxious_K1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063197977465000035",
+        "in_reply_to_user_id": "1746818545630195713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063158900560634008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anxious_K1n 你很幸运呢，能遇到这么在乎你爱你包容你的人😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746818545630195713",
+        "conversation_id": "2063158900560634008",
+        "created_at": "2026-06-06T07:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063158900560634008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063158900560634008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候真的要感谢我的女朋友，昨天凌晨一点找到在路边淋雨的我，然后把我带到酒店把我衣服抱到酒店洗衣房洗了还烘干了抱回来挂在衣架上，然后给我涂碘伏贴创可贴哄我睡觉，虽然扇了我三十几个巴掌但还是很爱她🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 491,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 577
+        },
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T08:56:41.000Z",
+        "description": "你能看到的也只有腐烂的过程\n⚠️智力有问题/精分/ODER/自残/烟鬼/酗酒/Brat/A股知名韭菜\n如果能忍受我不定期发疯可以和我交朋友（我对朋友很好的！）\n这里是我的垃圾桶，如果有冒犯到你我很抱歉",
+        "id": "1746818545630195713",
+        "location": "Mercury",
+        "name": "Kasumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077789306793984/OF_vhTdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 90,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 311
+        },
+        "username": "Anxious_K1n",
+        "verified": true
+      }
+    ]
+  }
+}
