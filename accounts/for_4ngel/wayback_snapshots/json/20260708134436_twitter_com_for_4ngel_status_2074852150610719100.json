@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074852073825554432"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2074840462704415120",
+    "created_at": "2026-07-08T13:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074852150610719100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ts17EEyvEw",
+          "end": 34,
+          "expanded_url": "https://x.com/for_4ngel/status/2074852150610719100/photo/1",
+          "media_key": "3_2074852073825554432",
+          "start": 11,
+          "url": "https://t.co/ts17EEyvEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074852150610719100",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074840462704415120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一起o白兔bron😸 https://t.co/ts17EEyvEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2074852073825554432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMta99Xa0AAswv7.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074852073825554432"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2074840462704415120",
+        "created_at": "2026-07-08T13:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074852150610719100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ts17EEyvEw",
+              "end": 34,
+              "expanded_url": "https://x.com/for_4ngel/status/2074852150610719100/photo/1",
+              "media_key": "3_2074852073825554432",
+              "start": 11,
+              "url": "https://t.co/ts17EEyvEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074852150610719100",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074840462704415120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一起o白兔bron😸 https://t.co/ts17EEyvEw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2074840462704415120",
+        "created_at": "2026-07-08T12:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074840462704415120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074840462704415120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "硝酸银的群怎么全爆了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 489,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

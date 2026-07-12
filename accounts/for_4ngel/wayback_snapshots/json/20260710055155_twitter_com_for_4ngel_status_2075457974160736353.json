@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075457945840783360"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "conversation_id": "2075457974160736353",
+    "created_at": "2026-07-10T05:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075457974160736353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tEc8kFPE4V",
+          "end": 23,
+          "expanded_url": "https://x.com/for_4ngel/status/2075457974160736353/video/1",
+          "media_key": "13_2075457945840783360",
+          "start": 0,
+          "url": "https://t.co/tEc8kFPE4V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075457974160736353",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/tEc8kFPE4V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17433,
+        "height": 720,
+        "media_key": "13_2075457945840783360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075457945840783360/img/z_5IPUdyYjTRrwFk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075457945840783360/vid/avc1/306x270/4Gcq_NmYIvoP0ggZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075457945840783360/vid/avc1/408x360/f4sW6INPl2XZxncO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075457945840783360/vid/avc1/818x720/v48bnOB3j5EgQm11.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075457945840783360/pl/mqjvhZxc4m5j1Pv6.m3u8?tag=14"
+          }
+        ],
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075457945840783360"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2075457974160736353",
+        "created_at": "2026-07-10T05:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075457974160736353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEc8kFPE4V",
+              "end": 23,
+              "expanded_url": "https://x.com/for_4ngel/status/2075457974160736353/video/1",
+              "media_key": "13_2075457945840783360",
+              "start": 0,
+              "url": "https://t.co/tEc8kFPE4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075457974160736353",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tEc8kFPE4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 490,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}
