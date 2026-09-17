@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084879263464144896",
+        "3_2084879263527030784"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084879278941098116",
+    "created_at": "2026-08-05T05:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084879278941098116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BMDh6I6Ygx",
+          "end": 34,
+          "expanded_url": "https://x.com/for_4ngel/status/2084879278941098116/photo/1",
+          "media_key": "3_2084879263464144896",
+          "start": 11,
+          "url": "https://t.co/BMDh6I6Ygx"
+        },
+        {
+          "display_url": "pic.x.com/BMDh6I6Ygx",
+          "end": 34,
+          "expanded_url": "https://x.com/for_4ngel/status/2084879278941098116/photo/1",
+          "media_key": "3_2084879263527030784",
+          "start": 11,
+          "url": "https://t.co/BMDh6I6Ygx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084879278941098116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享曲马多不好的体验 https://t.co/BMDh6I6Ygx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084879263464144896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO76pNpbwAAGfC5.jpg",
+        "width": 501
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084879263527030784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO76pN4bUAASXfI.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084879263464144896",
+            "3_2084879263527030784"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084879278941098116",
+        "created_at": "2026-08-05T05:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084879278941098116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BMDh6I6Ygx",
+              "end": 34,
+              "expanded_url": "https://x.com/for_4ngel/status/2084879278941098116/photo/1",
+              "media_key": "3_2084879263464144896",
+              "start": 11,
+              "url": "https://t.co/BMDh6I6Ygx"
+            },
+            {
+              "display_url": "pic.x.com/BMDh6I6Ygx",
+              "end": 34,
+              "expanded_url": "https://x.com/for_4ngel/status/2084879278941098116/photo/1",
+              "media_key": "3_2084879263527030784",
+              "start": 11,
+              "url": "https://t.co/BMDh6I6Ygx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084879278941098116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享曲马多不好的体验 https://t.co/BMDh6I6Ygx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 482,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

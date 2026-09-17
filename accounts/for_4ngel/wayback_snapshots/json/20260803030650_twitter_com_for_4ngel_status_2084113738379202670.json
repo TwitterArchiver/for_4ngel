@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2084113738379202670",
+    "created_at": "2026-08-03T03:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084113738379202670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist2/s…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/drug_artist2/status/2084072573814645206",
+          "start": 123,
+          "url": "https://t.co/9ihWt1xaI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084113738379202670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084072573814645206",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "菲尼布特是弱gabab激动剂，相对于他的对卤衍生物比gabab激动作用是极弱的，然后有一定激动多巴胺释放，最主要的还是结合到电压依赖性钙通道的α2-δ亚基，这个才是加巴喷丁族药物有滥用潜力的原因，他的对卤衍几乎在这个能力上极弱可以忽略比如巴氯芬 https://t.co/9ihWt1xaI6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2084113738379202670",
+        "created_at": "2026-08-03T03:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084113738379202670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2084072573814645206",
+              "start": 123,
+              "url": "https://t.co/9ihWt1xaI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084113738379202670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084072573814645206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "菲尼布特是弱gabab激动剂，相对于他的对卤衍生物比gabab激动作用是极弱的，然后有一定激动多巴胺释放，最主要的还是结合到电压依赖性钙通道的α2-δ亚基，这个才是加巴喷丁族药物有滥用潜力的原因，他的对卤衍几乎在这个能力上极弱可以忽略比如巴氯芬 https://t.co/9ihWt1xaI6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084072573814645206",
+        "created_at": "2026-08-03T00:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084072573814645206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084072573814645206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "随着普瑞巴林被网络禁售\n我们还有什么能选择的？\n加巴喷丁？那太弱了 且需要时间管理\n菲尼布特是个很好的选择\n我们可以直接把菲尼布特认为是普瑞巴林+巴氯芬的pro max版本 但还是与普瑞巴林有不少区别的\n菲尼布特是GABA-B受体激动剂\n他通常是盐酸盐形式\n因此 它对肠胃有极其巨大的伤害\n前苏联与 1960 年在临床使用\n你可以很轻松的购买到它 然后使用\n一个不为人知的小技巧 我使用了很久\n在使用菲尼布特的时候配合小苏打\n可以有效缓解它的肠胃伤害"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 729,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随着普瑞巴林被网络禁售\n我们还有什么能选择的？\n加巴喷丁？那太弱了 且需要时间管理\n菲尼布特是个很好的选择\n我们可以直接把菲尼布特认为是普瑞巴林+巴氯芬的pro max版本 但还是与普瑞巴林有不少区别的\n菲尼布特是GABA-B受体激动剂\n他通常是盐酸盐形式\n因此 它对肠胃有极其巨大的伤害\n前苏联与 1960"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 482,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 55,
+          "like_count": 359,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

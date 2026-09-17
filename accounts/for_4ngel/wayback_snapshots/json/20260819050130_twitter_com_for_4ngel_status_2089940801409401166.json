@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2089389714134761739",
+    "created_at": "2026-08-19T05:01:30.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089940801409401166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1156995783192797185",
+          "start": 0,
+          "username": "drugs_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089940801409401166",
+    "in_reply_to_user_id": "1156995783192797185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089389714134761739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drugs_artist 沐雨fo我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2089389700901732352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8A3OebgAAyZfj.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2089389714134761739",
+        "created_at": "2026-08-19T05:01:30.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089940801409401166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1156995783192797185",
+              "start": 0,
+              "username": "drugs_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089940801409401166",
+        "in_reply_to_user_id": "1156995783192797185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089389714134761739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drugs_artist 沐雨fo我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089389700901732352"
+          ]
+        },
+        "author_id": "1156995783192797185",
+        "conversation_id": "2089389714134761739",
+        "created_at": "2026-08-17T16:31:41.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089389714134761739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6fGQb9qWa",
+              "end": 146,
+              "expanded_url": "https://x.com/haidar_faruqi/status/2089389714134761739/photo/1",
+              "media_key": "3_2089389700901732352",
+              "start": 123,
+              "url": "https://t.co/R6fGQb9qWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089389714134761739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089389700901732352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1857,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是沐雨，记住这个名字，药圈的创立者之一（？药圈知名传奇人物 本人算半个专业人士，自认为精通药学，精神药理学，精神病学，成瘾医学，以及一些简单的医学基础，我可以提供用药咨询及指导，精神病治疗咨询及指导，有需要请联系我，相信我的专业性，看见就会回 https://t.co/R6fGQb9qWa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "is_identity_verified": false,
+        "location": "若能成為誰的心臟",
+        "most_recent_tweet_id": "2089940801409401166",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809604484173295620/1780812121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 475,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-01T18:31:05.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年 我从地狱杀回来了  名人堂梦工厂RC-沐雨 零售策划药产品联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 61,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 38,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/dUOaFI0Nkg"
+              }
+            ]
+          }
+        },
+        "id": "1156995783192797185",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2089928978723442841",
+        "name": "沐雨",
+        "pinned_tweet_id": "2089389714134761739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156995783192797185/1786981866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089379499209355264/O-VSHgY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 32,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/dUOaFI0Nkg",
+        "username": "drugs_artist",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2086629994034344177",
+    "created_at": "2026-08-10T01:45:32.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086629994034344177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ODShopLove/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ODShopLove/status/2086460131882213876",
+          "start": 4,
+          "url": "https://t.co/4wIUBPfX7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086629994034344177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086460131882213876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的发 https://t.co/4wIUBPfX7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2086454017312575488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSS384aUAAK4Wy.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2086454043430531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSS5eLasAAhim5.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2086454115664875521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSS9rRbUAEOb8T.jpg",
+        "width": 1106
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2086454136820940801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSS-6FbQAE4izu.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2086629994034344177",
+        "created_at": "2026-08-10T01:45:32.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086629994034344177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ODShopLove/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ODShopLove/status/2086460131882213876",
+              "start": 4,
+              "url": "https://t.co/4wIUBPfX7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086629994034344177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086460131882213876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的发 https://t.co/4wIUBPfX7d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086454017312575488",
+            "3_2086454043430531072",
+            "3_2086454115664875521",
+            "3_2086454136820940801"
+          ]
+        },
+        "author_id": "764625853183619072",
+        "conversation_id": "2086460131882213876",
+        "created_at": "2026-08-09T14:30:34.000Z",
+        "display_text_range": [
+          0,
+          202
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086460131882213876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1989627406391635968",
+              "start": 29,
+              "username": "drug_artist2"
+            },
+            {
+              "end": 55,
+              "id": "1916974498903166978",
+              "start": 43,
+              "username": "Drug_wuming"
+            },
+            {
+              "end": 64,
+              "id": "1771909316909604864",
+              "start": 56,
+              "username": "HTX_QAQ"
+            },
+            {
+              "end": 77,
+              "id": "2081009888818278400",
+              "start": 65,
+              "username": "JiGuang_Lab"
+            },
+            {
+              "end": 91,
+              "id": "1556279645502427136",
+              "start": 78,
+              "username": "tianxiao0502"
+            },
+            {
+              "end": 100,
+              "id": "1132729630245265408",
+              "start": 92,
+              "username": "pr80net"
+            },
+            {
+              "end": 111,
+              "id": "38217523",
+              "start": 101,
+              "username": "ZakkysLab"
+            },
+            {
+              "end": 123,
+              "id": "1754774517594181632",
+              "start": 112,
+              "username": "ValenceLab"
+            },
+            {
+              "end": 134,
+              "id": "2082275840851845120",
+              "start": 124,
+              "username": "Mercyxvx1"
+            },
+            {
+              "end": 147,
+              "id": "1430117480865746952",
+              "start": 135,
+              "username": "HuytrewqKPS"
+            },
+            {
+              "end": 159,
+              "id": "1962425480612851712",
+              "start": 148,
+              "username": "yaowubaike"
+            },
+            {
+              "end": 173,
+              "id": "1701997020469399552",
+              "start": 161,
+              "username": "gongzisama1"
+            },
+            {
+              "end": 187,
+              "id": "1124790071314587648",
+              "start": 174,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 202,
+              "id": "1591044061552680962",
+              "start": 188,
+              "username": "Rainbowotomad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OMg9IRuGv",
+              "end": 226,
+              "expanded_url": "https://x.com/ODShopLove/status/2086460131882213876/photo/1",
+              "media_key": "3_2086454017312575488",
+              "start": 203,
+              "url": "https://t.co/5OMg9IRuGv"
+            },
+            {
+              "display_url": "pic.x.com/5OMg9IRuGv",
+              "end": 226,
+              "expanded_url": "https://x.com/ODShopLove/status/2086460131882213876/photo/1",
+              "media_key": "3_2086454043430531072",
+              "start": 203,
+              "url": "https://t.co/5OMg9IRuGv"
+            },
+            {
+              "display_url": "pic.x.com/5OMg9IRuGv",
+              "end": 226,
+              "expanded_url": "https://x.com/ODShopLove/status/2086460131882213876/photo/1",
+              "media_key": "3_2086454115664875521",
+              "start": 203,
+              "url": "https://t.co/5OMg9IRuGv"
+            },
+            {
+              "display_url": "pic.x.com/5OMg9IRuGv",
+              "end": 226,
+              "expanded_url": "https://x.com/ODShopLove/status/2086460131882213876/photo/1",
+              "media_key": "3_2086454136820940801",
+              "start": 203,
+              "url": "https://t.co/5OMg9IRuGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086460131882213876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086454017312575488"
+          },
+          {
+            "media_key": "3_2086454043430531072"
+          },
+          {
+            "media_key": "3_2086454115664875521"
+          },
+          {
+            "media_key": "3_2086454136820940801"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2233,
+          "like_count": 49,
+          "quote_count": 10,
+          "reply_count": 37,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "你好，这里是odshop，我们联合起来，改变一切，对吗？\n@drug_artist2 @Drug_wuming @HTX_QAQ @JiGuang_Lab @tianxiao0502 @pr80net @ZakkysLab @ValenceLab @Mercyxvx1 @HuytrewqKPS @yaowubaike  @gongzisama1 @LanwujiDrink @Rainbowotomad https://t.co/5OMg9IRuGv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "is_identity_verified": false,
+        "location": "若能成為誰的心臟",
+        "most_recent_tweet_id": "2086629994034344177",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809604484173295620/1780812121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 480,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-14T00:53:04.000Z",
+        "description": "TG群组 https://t.co/JcosbyN8hE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/odshoplove",
+                "end": 28,
+                "expanded_url": "https://t.me/odshoplove",
+                "start": 5,
+                "url": "https://t.co/JcosbyN8hE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ODShop.love",
+                "end": 23,
+                "expanded_url": "http://ODShop.love",
+                "start": 0,
+                "url": "https://t.co/7jDgMresYt"
+              }
+            ]
+          }
+        },
+        "id": "764625853183619072",
+        "is_identity_verified": false,
+        "location": "梦境",
+        "most_recent_tweet_id": "2086460131882213876",
+        "name": "ODShop.love 愛是药片",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764625853183619072/1786113993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085739370976563200/rkYLp-2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 53,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/7jDgMresYt",
+        "username": "ODShopLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

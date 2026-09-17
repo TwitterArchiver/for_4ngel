@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2089624706215481436",
+    "created_at": "2026-08-19T05:14:39.000Z",
+    "display_text_range": [
+      15,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089944107464696128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961351591715639298",
+          "start": 0,
+          "username": "overdose_momo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089944107464696128",
+    "in_reply_to_user_id": "1961351591715639298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089624706215481436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_momo 伪麻黄碱过量+苯那敏导致的，这两个复方在白兔里的成分更可能导致你这种症状"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_2089624694710534144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_WlqobAAAy6Cz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2089624706215481436",
+        "created_at": "2026-08-19T05:14:39.000Z",
+        "display_text_range": [
+          15,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089944107464696128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961351591715639298",
+              "start": 0,
+              "username": "overdose_momo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089944107464696128",
+        "in_reply_to_user_id": "1961351591715639298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089624706215481436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_momo 伪麻黄碱过量+苯那敏导致的，这两个复方在白兔里的成分更可能导致你这种症状"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089624694710534144"
+          ]
+        },
+        "author_id": "1961351591715639298",
+        "conversation_id": "2089624706215481436",
+        "created_at": "2026-08-18T08:05:27.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089624706215481436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plbO4NlWE7",
+              "end": 175,
+              "expanded_url": "https://x.com/overdose_momo/status/2089624706215481436/photo/1",
+              "media_key": "3_2089624694710534144",
+              "start": 152,
+              "url": "https://t.co/plbO4NlWE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089624706215481436",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089624694710534144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给咖啡因跪下了真的。\n吃了一瓶白兔难受的整个人都在抖。后悔了。我不该上午喝了奶茶然后又泡了茶叶喝。奶茶的咖啡因+茶叶咖啡因，估算今天摄入350mg+的咖啡因。…茶多酚甚至是280+200=480mg左右。\n手抖到端杯子都端不稳…喝水把水洒了\n吐也没法吐已经消化了，只能多喝水赶紧代谢白兔。以后备纳洛酮 https://t.co/plbO4NlWE7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "is_identity_verified": false,
+        "location": "若能成為誰的心臟",
+        "most_recent_tweet_id": "2089944107464696128",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809604484173295620/1780812121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 476,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T08:54:16.000Z",
+        "description": "堆放一些od相关或许包括odwiki相关_赛博八字isfp_adhd双相_prbl单推",
+        "id": "1961351591715639298",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089907865452781624",
+        "name": "mo mo",
+        "pinned_tweet_id": "2084519650361315496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961351591715639298/1764860123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996594009180139521/f19azjrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 24,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "overdose_momo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

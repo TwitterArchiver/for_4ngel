@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2081008094554067219",
+    "created_at": "2026-07-25T13:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081008094554067219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/L77TuT/status/…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/L77TuT/status/2080679673005232319",
+          "start": 98,
+          "url": "https://t.co/sFFy3nDasU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081008094554067219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080679673005232319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美托洛尔也能哦还能致幻？?\n复方烷胺也能哦还能致幻？?\n东良宕碱也能哦还能致幻？？\n阿莫西林也能哦还能致幻？？\n苯海拉明也能哦还能致幻？？\n左旋多巴也能哦还能致幻？？\n西地那非也能哦还能致幻？？ https://t.co/sFFy3nDasU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080679655259189248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAPH18bMAArgGG.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080679655271763968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAPH1_bEAA3bSa.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2081008094554067219",
+        "created_at": "2026-07-25T13:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081008094554067219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/L77TuT/status/…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/L77TuT/status/2080679673005232319",
+              "start": 98,
+              "url": "https://t.co/sFFy3nDasU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081008094554067219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080679673005232319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美托洛尔也能哦还能致幻？?\n复方烷胺也能哦还能致幻？?\n东良宕碱也能哦还能致幻？？\n阿莫西林也能哦还能致幻？？\n苯海拉明也能哦还能致幻？？\n左旋多巴也能哦还能致幻？？\n西地那非也能哦还能致幻？？ https://t.co/sFFy3nDasU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080679655259189248",
+            "3_2080679655271763968"
+          ]
+        },
+        "author_id": "1877886557316689920",
+        "conversation_id": "2080679673005232319",
+        "created_at": "2026-07-24T15:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080679673005232319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcJWpUtYuO",
+              "end": 38,
+              "expanded_url": "https://x.com/L77TuT/status/2080679673005232319/photo/1",
+              "media_key": "3_2080679655259189248",
+              "start": 15,
+              "url": "https://t.co/NcJWpUtYuO"
+            },
+            {
+              "display_url": "pic.x.com/NcJWpUtYuO",
+              "end": 38,
+              "expanded_url": "https://x.com/L77TuT/status/2080679673005232319/photo/1",
+              "media_key": "3_2080679655271763968",
+              "start": 15,
+              "url": "https://t.co/NcJWpUtYuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080679673005232319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8409,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "布洛芬也能o？还能致幻？？？ https://t.co/NcJWpUtYuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 492,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T01:13:55.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tut77l",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tut77l",
+                "start": 0,
+                "url": "https://t.co/07GYXhqfOw"
+              }
+            ]
+          }
+        },
+        "id": "1877886557316689920",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077596000076570624/BQeRyl4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 137,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/07GYXhqfOw",
+        "username": "L77TuT",
+        "verified": false
+      }
+    ]
+  }
+}

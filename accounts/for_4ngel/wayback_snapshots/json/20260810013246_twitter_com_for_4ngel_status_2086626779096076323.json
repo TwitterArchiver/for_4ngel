@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086626644026912768",
+        "3_2086626644421160960"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086626779096076323",
+    "created_at": "2026-08-10T01:32:46.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086626779096076323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0vwkssbyVP",
+          "end": 41,
+          "expanded_url": "https://x.com/for_4ngel/status/2086626779096076323/photo/1",
+          "media_key": "3_2086626644026912768",
+          "start": 18,
+          "url": "https://t.co/0vwkssbyVP"
+        },
+        {
+          "display_url": "pic.x.com/0vwkssbyVP",
+          "end": 41,
+          "expanded_url": "https://x.com/for_4ngel/status/2086626779096076323/photo/1",
+          "media_key": "3_2086626644421160960",
+          "start": 18,
+          "url": "https://t.co/0vwkssbyVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086626779096076323",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086626644026912768"
+      },
+      {
+        "media_key": "3_2086626644421160960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弥补了群里没有春风爱德华kr的遗憾 https://t.co/0vwkssbyVP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2086626644026912768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUv4JgW8AAPeM9.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2086626644421160960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUv4K-WsAAzWRp.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086626644026912768",
+            "3_2086626644421160960"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086626779096076323",
+        "created_at": "2026-08-10T01:32:46.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086626779096076323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vwkssbyVP",
+              "end": 41,
+              "expanded_url": "https://x.com/for_4ngel/status/2086626779096076323/photo/1",
+              "media_key": "3_2086626644026912768",
+              "start": 18,
+              "url": "https://t.co/0vwkssbyVP"
+            },
+            {
+              "display_url": "pic.x.com/0vwkssbyVP",
+              "end": 41,
+              "expanded_url": "https://x.com/for_4ngel/status/2086626779096076323/photo/1",
+              "media_key": "3_2086626644421160960",
+              "start": 18,
+              "url": "https://t.co/0vwkssbyVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086626779096076323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086626644026912768"
+          },
+          {
+            "media_key": "3_2086626644421160960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弥补了群里没有春风爱德华kr的遗憾 https://t.co/0vwkssbyVP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "is_identity_verified": false,
+        "location": "若能成為誰的心臟",
+        "most_recent_tweet_id": "2086626779096076323",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809604484173295620/1780812121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 480,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

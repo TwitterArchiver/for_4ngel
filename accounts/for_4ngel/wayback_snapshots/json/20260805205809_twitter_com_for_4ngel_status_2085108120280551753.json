@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085107492447723520",
+        "3_2085107492451930112",
+        "3_2085107492456108032",
+        "3_2085107795448549376"
+      ]
+    },
+    "author_id": "1809604484173295620",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085108120280551753",
+    "created_at": "2026-08-05T20:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085108120280551753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V2xUdiygRw",
+          "end": 124,
+          "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+          "media_key": "3_2085107492447723520",
+          "start": 101,
+          "url": "https://t.co/V2xUdiygRw"
+        },
+        {
+          "display_url": "pic.x.com/V2xUdiygRw",
+          "end": 124,
+          "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+          "media_key": "3_2085107492451930112",
+          "start": 101,
+          "url": "https://t.co/V2xUdiygRw"
+        },
+        {
+          "display_url": "pic.x.com/V2xUdiygRw",
+          "end": 124,
+          "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+          "media_key": "3_2085107492456108032",
+          "start": 101,
+          "url": "https://t.co/V2xUdiygRw"
+        },
+        {
+          "display_url": "pic.x.com/V2xUdiygRw",
+          "end": 124,
+          "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+          "media_key": "3_2085107795448549376",
+          "start": 101,
+          "url": "https://t.co/V2xUdiygRw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085108120280551753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等我租个服务器，写个客户端，就放出来公开使用，其实我想过skill开源，不过这个skill我研究优化了很久吧，然后现在有些新想法也要测试，不过当下的skill在别人测试目前来看置信度已经有70-80% https://t.co/V2xUdiygRw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085107492447723520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_KN43aIAA0BYf.jpg",
+        "width": 608
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085107492451930112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_KN44aUAARYey.jpg",
+        "width": 434
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2085107492456108032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_KN45aEAAhU78.jpg",
+        "width": 720
+      },
+      {
+        "height": 1094,
+        "media_key": "3_2085107795448549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_Kfhob0AAtwfz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085107492447723520",
+            "3_2085107492451930112",
+            "3_2085107492456108032",
+            "3_2085107795448549376"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085108120280551753",
+        "created_at": "2026-08-05T20:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085108120280551753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2xUdiygRw",
+              "end": 124,
+              "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+              "media_key": "3_2085107492447723520",
+              "start": 101,
+              "url": "https://t.co/V2xUdiygRw"
+            },
+            {
+              "display_url": "pic.x.com/V2xUdiygRw",
+              "end": 124,
+              "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+              "media_key": "3_2085107492451930112",
+              "start": 101,
+              "url": "https://t.co/V2xUdiygRw"
+            },
+            {
+              "display_url": "pic.x.com/V2xUdiygRw",
+              "end": 124,
+              "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+              "media_key": "3_2085107492456108032",
+              "start": 101,
+              "url": "https://t.co/V2xUdiygRw"
+            },
+            {
+              "display_url": "pic.x.com/V2xUdiygRw",
+              "end": 124,
+              "expanded_url": "https://x.com/for_4ngel/status/2085108120280551753/photo/1",
+              "media_key": "3_2085107795448549376",
+              "start": 101,
+              "url": "https://t.co/V2xUdiygRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085108120280551753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我租个服务器，写个客户端，就放出来公开使用，其实我想过skill开源，不过这个skill我研究优化了很久吧，然后现在有些新想法也要测试，不过当下的skill在别人测试目前来看置信度已经有70-80% https://t.co/V2xUdiygRw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 480,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2077549362570551781",
+    "created_at": "2026-07-17T01:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077922509413056896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697666337005506561",
+          "start": 0,
+          "username": "xianglingmao26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077922509413056896",
+    "in_reply_to_user_id": "1697666337005506561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077890037883294196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianglingmao26 剩了20t白兔bron，最近都在吃菲尼布特，金刚烷胺什么的😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2077549362570551781",
+        "created_at": "2026-07-17T01:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077922509413056896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697666337005506561",
+              "start": 0,
+              "username": "xianglingmao26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077922509413056896",
+        "in_reply_to_user_id": "1697666337005506561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077890037883294196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianglingmao26 剩了20t白兔bron，最近都在吃菲尼布特，金刚烷胺什么的😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697666337005506561",
+        "conversation_id": "2077549362570551781",
+        "created_at": "2026-07-16T22:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077890037883294196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077890037883294196",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077549362570551781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 在吃什么呢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 491,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T17:43:07.000Z",
+        "description": "🚪180｜想成为一个被爱包裹的小女孩~ 婉拒短期恋爱关系，fwb，ons",
+        "id": "1697666337005506561",
+        "location": "Kanagawa-ken, Japan",
+        "name": "响铃猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697666540592902144/f8bu3Mbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 151,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "xianglingmao26",
+        "verified": false
+      }
+    ]
+  }
+}
