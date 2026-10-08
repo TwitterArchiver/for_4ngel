@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809604484173295620",
+    "conversation_id": "2102838184313061588",
+    "created_at": "2026-09-24T08:02:11.000Z",
+    "display_text_range": [
+      26,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T09:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103032235272343612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243065166054305792",
+          "start": 0,
+          "username": "fafnirzzssx"
+        },
+        {
+          "end": 25,
+          "id": "354133583",
+          "start": 13,
+          "username": "Heisuan2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103032235272343612",
+    "in_reply_to_user_id": "1243065166054305792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102884963775623334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fafnirzzssx @Heisuan2333 我操你死妈，你妈在外面幸幸苦苦卖逼赚的钱交网费就让你在这扣俩农民话瞎骂来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2102838184313061588",
+        "created_at": "2026-09-24T08:02:11.000Z",
+        "display_text_range": [
+          26,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103032235272343612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243065166054305792",
+              "start": 0,
+              "username": "fafnirzzssx"
+            },
+            {
+              "end": 25,
+              "id": "354133583",
+              "start": 13,
+              "username": "Heisuan2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103032235272343612",
+        "in_reply_to_user_id": "1243065166054305792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102884963775623334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fafnirzzssx @Heisuan2333 我操你死妈，你妈在外面幸幸苦苦卖逼赚的钱交网费就让你在这扣俩农民话瞎骂来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243065166054305792",
+        "conversation_id": "2102838184313061588",
+        "created_at": "2026-09-23T22:16:59.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T23:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102884963775623334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "354133583",
+              "start": 0,
+              "username": "Heisuan2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102884963775623334",
+        "in_reply_to_user_id": "354133583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102838184313061588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heisuan2333 操你妈再发鬼图老子一个水之呼吸贰之型 水车把你砍成两瓣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2|我的爱人@Heisuan2333 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D|学过一些人格学，心理学以及药理学最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "Heisuan2333"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "is_identity_verified": false,
+        "location": "若能成為誰的心臟",
+        "most_recent_tweet_id": "2103032235272343612",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809604484173295620/1780812121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 453,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-26T06:40:16.000Z",
+        "description": "谁有多余资金",
+        "id": "1243065166054305792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102947347114480034",
+        "name": "南宁邦邦科技",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935383914354458624/JX0o37Z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 59,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "fafnirzzssx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-13T05:38:11.000Z",
+        "description": "我是黑蒜(๑• . •๑)    低浮上⬆️\n俺婆娘主人杯子@for_4ngel\n♀/友跨/安/金属/emo/0Der/车卍/地雷系/餐券/温良/音乐是生命/心理疾病严重。3不混任何圈子，不参与任何斗争，我脆弱玻璃心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "for_4ngel"
+              }
+            ]
+          }
+        },
+        "id": "354133583",
+        "is_identity_verified": false,
+        "location": "奈落之底",
+        "most_recent_tweet_id": "2102838184313061588",
+        "name": "xxxxxxL。",
+        "pinned_tweet_id": "2102104297337135318",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/354133583/1788684874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096522227428765696/-ihf9N2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 39,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Heisuan2333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
